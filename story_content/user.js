@@ -2,2615 +2,3515 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6AsZ3VJ1z14":
+      case "6SI5SFbf6Ha":
         Script1();
         break;
-      case "6HwEQSqRDKq":
+      case "5o2omH0edHR":
         Script2();
         break;
-      case "5XjWFAfKC99":
+      case "6Yq1XcLNpMr":
         Script3();
         break;
-      case "6HULXwAfckr":
+      case "5ZDYT1l0a31":
         Script4();
         break;
-      case "6W4CZfBi4fZ":
+      case "6d9YlErdUk2":
         Script5();
         break;
-      case "6rmfgPqQoem":
+      case "5a0gZG5ZTdc":
         Script6();
         break;
-      case "6YU7nUoR2d6":
+      case "6r5pq5rIi7I":
         Script7();
         break;
-      case "5prFpxCqJYy":
+      case "6VYI5M2o3vn":
         Script8();
         break;
-      case "6EP8QxMSY4T":
+      case "6evaMpn5Clt":
         Script9();
         break;
-      case "5jwsqtnD4xW":
+      case "5w8kCFvF1NL":
         Script10();
         break;
-      case "6ArLR5iHI9k":
+      case "6OTb8KphLS2":
         Script11();
         break;
-      case "5iUyD55yJJW":
+      case "6JNxWA8ZCCp":
         Script12();
         break;
-      case "5iBMcgLDMzL":
+      case "60dVnIoYycn":
         Script13();
         break;
-      case "6bpfWMdZDSC":
+      case "61GJpLjRjz3":
         Script14();
         break;
-      case "6PlS9Ew3GwR":
+      case "6HTGoZo7YkM":
         Script15();
         break;
-      case "5YQlzzydb7j":
+      case "6KBMIFmQ4gb":
         Script16();
         break;
-      case "6ldyE3ez7p5":
+      case "6UwcWXNmUxy":
         Script17();
         break;
-      case "5Y8A1zFJtCo":
+      case "6EWSyulCbTW":
         Script18();
         break;
-      case "6ZBkMYX56lI":
+      case "6UWRm73kKJn":
         Script19();
         break;
-      case "6qsua1LQ08v":
+      case "5qltRw3nsY1":
         Script20();
         break;
-      case "5mFk4lcjy2Z":
+      case "6f01lNo1QwW":
         Script21();
         break;
-      case "6e6Osyj04V1":
+      case "61a5MuBOGTV":
         Script22();
         break;
-      case "66AlFFxSEIQ":
+      case "66i3zuZ15Jw":
         Script23();
         break;
-      case "5yQlUwt79oo":
+      case "5XfAdHYyvLP":
         Script24();
         break;
-      case "5jDqGKbv3C5":
+      case "5nkMCvp9ALv":
         Script25();
         break;
-      case "5s4nwREEcnW":
+      case "6hOr2MJhw8R":
         Script26();
         break;
-      case "5zfuxzbcpvY":
+      case "5fJdxedQTTi":
         Script27();
         break;
-      case "5WGA5WIFtZX":
+      case "5gl2rD68dlm":
         Script28();
         break;
-      case "6riC0vPm4HW":
+      case "5bLD1VMshCC":
         Script29();
         break;
-      case "6b7KUOn0ad2":
+      case "5mrR1HTerww":
         Script30();
         break;
-      case "68EYjs5IURU":
+      case "5V4gGp5opqI":
         Script31();
         break;
-      case "6fuIriuJjNA":
+      case "6cQ1Kzm3KPs":
         Script32();
         break;
-      case "5iZPF16jRpC":
+      case "5qJWUZ9JQ8s":
         Script33();
         break;
-      case "6MXoP9q7CzV":
+      case "6E6p2HPUbei":
         Script34();
         break;
-      case "5eaqUtbP49Y":
+      case "6mFwvpLWDR8":
         Script35();
         break;
-      case "5hKHRv3sG3p":
+      case "6BxW8jzqxza":
         Script36();
         break;
-      case "5uXvgFqsT46":
+      case "6erZPxHqpuZ":
         Script37();
         break;
-      case "5zbQhEROIEj":
+      case "5wSIx4JrgDi":
         Script38();
         break;
-      case "5q2CSNE2r0U":
+      case "5giBFaBPtDk":
         Script39();
         break;
-      case "6JCf5CyiPO6":
+      case "6fc6I3Y7zW7":
         Script40();
         break;
-      case "5jQWe9til37":
+      case "6IbRknGT8Vr":
         Script41();
         break;
-      case "69AUNeWJRZz":
+      case "6fio3FaHbMT":
         Script42();
         break;
-      case "5yWddN1gKyD":
+      case "695rETaQd05":
         Script43();
         break;
-      case "5zkivbYgBeG":
+      case "6mD4zptixbA":
         Script44();
         break;
-      case "5f9eYgKBBU8":
+      case "5aEhY6xKVmD":
         Script45();
         break;
-      case "6UNKwX3Genj":
+      case "5VBF2sYtKIA":
         Script46();
         break;
-      case "6OS4AGRNwz2":
+      case "6HttYmuATGI":
         Script47();
         break;
-      case "6dnIQoMn8J3":
+      case "6U1WD4gbbcq":
         Script48();
         break;
-      case "6aCSmjIJSwK":
+      case "6D4YEuqdcUR":
         Script49();
         break;
-      case "6A9KZAU2Q3o":
+      case "6bAkbgTR4ow":
         Script50();
         break;
-      case "5f2cyhidrV2":
+      case "6Wix3TJ5vi3":
         Script51();
         break;
-      case "5irGuK5i7r5":
+      case "5miaRa4uVAS":
         Script52();
         break;
-      case "5pG9IMgSyV4":
+      case "6HtNrw2NDWa":
         Script53();
         break;
-      case "6dv3OaLqxdy":
+      case "5nnWffLwnTV":
         Script54();
         break;
-      case "6JbIHqUW2Ls":
+      case "6G7dEk0r3FR":
         Script55();
         break;
-      case "5WVo0XNJS3L":
+      case "64EyEhKC4tK":
         Script56();
         break;
-      case "6O2JNYB0xC0":
+      case "6ZZXOSaBW64":
         Script57();
         break;
-      case "6hPiyIB1JmE":
+      case "5l5acEnjHYW":
         Script58();
         break;
-      case "5koJJK1wfCl":
+      case "6lwSnaSaNnv":
         Script59();
         break;
-      case "5r8bYkIpyqZ":
+      case "5ziFrjYeVGB":
         Script60();
         break;
-      case "5WIBhdrorFc":
+      case "5Utew8uRcTi":
         Script61();
         break;
-      case "6WyV79umyWX":
+      case "6Qvyw6bRGCJ":
         Script62();
         break;
-      case "6qCCzBnkdzH":
+      case "5zwktBoeDs0":
         Script63();
         break;
-      case "5oyTMT2y778":
+      case "6ll5ZTHypV3":
         Script64();
         break;
-      case "5lhZD4OVoCx":
+      case "5q3yPCcNF7k":
         Script65();
         break;
-      case "6cDVYEbtUxa":
+      case "6eGA2AMulfC":
         Script66();
         break;
-      case "6DMWZj35w6n":
+      case "5jRFJXoDMQr":
         Script67();
         break;
-      case "6VwyC3py3N9":
+      case "6pzvVcHYRDn":
         Script68();
         break;
-      case "6ARojYuJ0VD":
+      case "6KqJMTN9ZZb":
         Script69();
         break;
-      case "6eRx9G2QMqU":
+      case "6TwpMdNNcaR":
         Script70();
         break;
-      case "5ssPIwp2f8F":
+      case "5lhh1srofcq":
         Script71();
         break;
-      case "6LTNp9vfT6R":
+      case "5YJFUO1bX4o":
         Script72();
         break;
-      case "5Zio4Hn9OAG":
+      case "5sOKDhg6YfZ":
         Script73();
         break;
-      case "6LKd48l8qem":
+      case "6iEsSpMYRug":
         Script74();
         break;
-      case "5oSmOm7tTyv":
+      case "6HMpouNjjUl":
         Script75();
         break;
-      case "6L3qFyzoVr8":
+      case "6hDkjnwgVuE":
         Script76();
         break;
-      case "5jxzgpx2Y6T":
+      case "6GK5J45OlZz":
         Script77();
         break;
-      case "6LrQFHrK3k0":
+      case "6LlHGSl0ltm":
         Script78();
         break;
-      case "6HX2kkFLb4N":
+      case "6fwEjOEAUDd":
         Script79();
         break;
-      case "6Vv1GO0KyLx":
+      case "5e19JwA60PM":
         Script80();
         break;
-      case "60SNuqvjetl":
+      case "6p5of5d3K6Y":
         Script81();
         break;
-      case "6asqcoanxqS":
+      case "62PDZvnKeTR":
         Script82();
         break;
-      case "676BInZeRec":
+      case "6QmRt9WL7xp":
         Script83();
         break;
-      case "6oO9uUaNaEy":
+      case "6A2XgbOVn1I":
         Script84();
         break;
-      case "5rCPFsZCGrL":
+      case "6k87BdMiMxe":
         Script85();
         break;
-      case "6m3ia4fo261":
+      case "5ylHGaEdmRP":
         Script86();
         break;
-      case "5o9rfm3VqSh":
+      case "6ZyJUtrjsxJ":
         Script87();
         break;
-      case "6eknqvJ14Vm":
+      case "6d5FxxK8IoE":
         Script88();
         break;
-      case "6LrBT3KQ9uL":
+      case "69q9cIOlu1v":
         Script89();
         break;
-      case "5oJtB7UdDQg":
+      case "5rJIwacnhOe":
         Script90();
         break;
-      case "6YdbMWW7NMH":
+      case "6Kp5A7SOn9o":
         Script91();
         break;
-      case "5oZjxBcfm87":
+      case "6j0ESQzxRKt":
         Script92();
         break;
-      case "5YyZe3xnvq3":
+      case "5t5ybhJifxn":
         Script93();
         break;
-      case "5XSwk4oyB6E":
+      case "6UVi6eg9RVh":
         Script94();
         break;
-      case "6EYhye0pSBk":
+      case "6qDZijKsqOI":
         Script95();
         break;
-      case "6fTh6frg0Sa":
+      case "5VNPf6Jwgxk":
         Script96();
         break;
-      case "5jT1ybmmc8W":
+      case "6NHOnJOWoMV":
         Script97();
         break;
-      case "6C1SV5Frkwm":
+      case "6VN95eergrH":
         Script98();
         break;
-      case "6ZETXiRybYd":
+      case "6rX7RAmIXBC":
         Script99();
         break;
-      case "6cFOIM4bycr":
+      case "6elrTA18MMU":
         Script100();
         break;
-      case "6o1IPvenEY8":
+      case "5yc0atXwRc1":
         Script101();
         break;
-      case "6ZgnkBJ66ol":
+      case "5WCevqgKzXq":
         Script102();
         break;
-      case "6JbbUtkGfw6":
+      case "6U1hy5KcuyU":
         Script103();
         break;
-      case "5tsdIJjKmIs":
+      case "6gxwKDGrwnR":
         Script104();
         break;
-      case "5yi9iDN7Vwu":
+      case "5pFCr0eHFTB":
         Script105();
         break;
-      case "5obRhjOBDuh":
+      case "60r17hALBRT":
         Script106();
         break;
-      case "62HsyabTjNN":
+      case "5wXieyP5Tms":
         Script107();
         break;
-      case "6UysqvjujBr":
+      case "6Gd6K2ZnWG5":
         Script108();
         break;
-      case "6oGfO8c78xu":
+      case "5Vj96XK6y7t":
         Script109();
         break;
-      case "6ZfyirlYq1y":
+      case "5qDQhzjOZV5":
         Script110();
         break;
-      case "6I3OuT0GEBm":
+      case "6q1XtEpWNx9":
         Script111();
         break;
-      case "6pIM7fLY33i":
+      case "5xdpCWz5Xla":
         Script112();
         break;
-      case "5oTQ2vn0hAG":
+      case "5m1T4eMglPk":
         Script113();
         break;
-      case "6bkXa4trHhH":
+      case "60eysQrtXIH":
         Script114();
         break;
-      case "6VuuSQTkcQu":
+      case "5bOs1C5Koji":
         Script115();
         break;
-      case "6AXOBYuVCEc":
+      case "637vDep1FoI":
         Script116();
         break;
-      case "5pB1Z9y4noJ":
+      case "6DXrHwa3Jhz":
         Script117();
         break;
-      case "6MWJAX418n1":
+      case "5xBLGmV3kwe":
         Script118();
         break;
-      case "5vaohyjbv4u":
+      case "6cuPZNptNfy":
         Script119();
         break;
-      case "5fu4L95kqWC":
+      case "6WyCD9mLQQc":
         Script120();
         break;
-      case "6PJHcktWn4b":
+      case "6jXIYjqDqN7":
         Script121();
         break;
-      case "6dO1GPZpgJy":
+      case "5k6gH6cnNHH":
         Script122();
         break;
-      case "6ZY0c48ILMm":
+      case "6qy4yXpSKsY":
         Script123();
         break;
-      case "5bq2dIHpmrf":
+      case "6fYjgtAyNis":
         Script124();
         break;
-      case "5i7cHk2qCPE":
+      case "65fp8924DoX":
         Script125();
         break;
-      case "5xuQKWc5k6P":
+      case "5Ynglhhx3VW":
         Script126();
         break;
-      case "637A4XS7hvj":
+      case "6kFT7AOS9Zz":
         Script127();
         break;
-      case "6qUloSJ83z7":
+      case "6krAEWjRpwt":
         Script128();
         break;
-      case "5bEnsFWgoQ2":
+      case "5c64c24knfU":
         Script129();
         break;
-      case "6JzJW4P6882":
+      case "69ljkbyve3m":
         Script130();
         break;
-      case "62oJnhY4JDS":
+      case "6VjPa8Ft2O6":
         Script131();
         break;
-      case "5XbYDfA9FC2":
+      case "5vBaZxrIUEp":
         Script132();
         break;
-      case "5iqeBkh8gGI":
+      case "6gsNNFRqHaB":
         Script133();
         break;
-      case "6FXB0DWUCwA":
+      case "6ImG5Ap0xG8":
         Script134();
         break;
-      case "5Yj80RSgFlV":
+      case "5j9UegJ5yLB":
         Script135();
         break;
-      case "6M717dZ4CGG":
+      case "5f4ErzyW3FV":
         Script136();
         break;
-      case "5vwf5qSYyFI":
+      case "6esVzFc6zvm":
         Script137();
         break;
-      case "6iR1GCqudr5":
+      case "6SwM0HxlEGe":
         Script138();
         break;
-      case "6lj8hE5ssET":
+      case "6idzw8Z25Cp":
         Script139();
         break;
-      case "6IDX2OZwAWe":
+      case "6K507nUwPe7":
         Script140();
         break;
-      case "5ihufOF8C67":
+      case "5pUm59U1sWZ":
         Script141();
         break;
-      case "6dCElZsQbX1":
+      case "653Cr3ZNIeU":
         Script142();
         break;
-      case "5wMBbAC6xYS":
+      case "662KIJCC0x2":
         Script143();
         break;
-      case "6anD5k7eJxj":
+      case "6oXEzvoehwA":
         Script144();
         break;
-      case "5wPBvVg7JBv":
+      case "6LUGVNj2fMN":
         Script145();
         break;
-      case "624GXk1j6z7":
+      case "6cU8eENGOfr":
         Script146();
         break;
-      case "5je93DeMwbm":
+      case "6M1YG91Mm5Y":
         Script147();
         break;
-      case "6DBDU9VJD5m":
+      case "6qwk2dTGtkj":
         Script148();
         break;
-      case "5ta1LSF6LIo":
+      case "6WSDojgYXa6":
         Script149();
         break;
-      case "6E3FPCdEOop":
+      case "6pQa9BIyHMU":
         Script150();
         break;
-      case "6T74wfTRBvb":
+      case "6Fe8YhQvie3":
         Script151();
         break;
-      case "5cwqWjHdEjz":
+      case "5kFaEt7sKaM":
         Script152();
         break;
-      case "631psYcZySh":
+      case "5ziHvE6IS4N":
         Script153();
         break;
-      case "6gZKFAoktU0":
+      case "5boirONK4Ne":
         Script154();
         break;
-      case "62tNhAO3iAp":
+      case "6o6ESpDmQQM":
         Script155();
         break;
-      case "5pW1AAG4zTe":
+      case "6MsAaBUJaH7":
         Script156();
         break;
-      case "5gUDDwtOQGA":
+      case "5xIaW3Gvr59":
         Script157();
         break;
-      case "655hUo3p7Wa":
+      case "5YzkTLc96CG":
         Script158();
         break;
-      case "6Y3ARdAdMwv":
+      case "5b4xoOjgRGu":
         Script159();
         break;
-      case "61LCuBTDaC6":
+      case "5jz88Acn6XZ":
         Script160();
         break;
-      case "6Cn7doZQEfF":
+      case "5fhfhWPZnRM":
         Script161();
         break;
-      case "6lNehaOoT7m":
+      case "6EBJ1ik4P30":
         Script162();
         break;
-      case "6SmlOOh0xGf":
+      case "6bNFDdZKGh7":
         Script163();
         break;
-      case "5jn9x28DjWz":
+      case "5sohyUhgLDt":
         Script164();
         break;
-      case "6Zmb80NTEp0":
+      case "5Zma2mEMsVX":
         Script165();
         break;
-      case "6GJE7QURnBW":
+      case "6PJUyBjRHig":
         Script166();
         break;
-      case "634I1ySw4F6":
+      case "5jQvny4ZLym":
         Script167();
         break;
-      case "5ioY3UFgSBQ":
+      case "6Qno4dPXrkF":
         Script168();
         break;
-      case "5s9L4Cmijgd":
+      case "6WBXuA0C0Mw":
         Script169();
         break;
-      case "5cflxQ1j1bA":
+      case "6IX47Y1bIUh":
         Script170();
         break;
-      case "6IBaQiB14aO":
+      case "6qY6n0SGTrb":
         Script171();
         break;
-      case "6KBf05aKpTv":
+      case "5eZTslihmaa":
         Script172();
         break;
-      case "6cw1UnHYkSI":
+      case "5r9qhEjrjmW":
         Script173();
         break;
-      case "5aSGTVtY26u":
+      case "5easYIP4LXJ":
         Script174();
         break;
-      case "6kThIcK336T":
+      case "6ASFMgLFkSm":
         Script175();
         break;
-      case "68XumQefJ1u":
+      case "6k5lG3jUFnx":
         Script176();
         break;
-      case "6EmekyZMORH":
+      case "61CfKXcAVdM":
         Script177();
         break;
-      case "6W1r6CVp8BG":
+      case "6nMeEoMr8jZ":
         Script178();
         break;
-      case "6VTn46JARcL":
+      case "5yU15PuR4oA":
         Script179();
         break;
-      case "637tRBwcsUS":
+      case "6Tbl6bYCxc9":
         Script180();
         break;
-      case "6mphoKVl2cp":
+      case "6XglTseQRFK":
         Script181();
         break;
-      case "5wgcLIC98RW":
+      case "5zuarpui5mT":
         Script182();
         break;
-      case "5k0VDNu1TVQ":
+      case "5h1TlqPnHRn":
         Script183();
         break;
-      case "5WlVLMrGrJK":
+      case "6hNoyv2FNWn":
         Script184();
         break;
-      case "5yJF5dX18HL":
+      case "6TkAgrL0G1S":
         Script185();
         break;
-      case "6H4BTU6cC2F":
+      case "5XC2WTDXD0s":
         Script186();
         break;
-      case "6TPY4lixSHb":
+      case "66J7UE4ug6e":
         Script187();
         break;
-      case "69WMOArYl0l":
+      case "65DN1f4flxd":
         Script188();
         break;
-      case "5oTNhhvS01F":
+      case "5nWWd5bj7F1":
         Script189();
         break;
-      case "5nmDBsT1OHl":
+      case "5fajgy3CJCH":
         Script190();
         break;
-      case "5cHLqPCxfxk":
+      case "6RulMDbRldZ":
         Script191();
         break;
-      case "5nV0SqadaeC":
+      case "5yALbAEjelY":
         Script192();
         break;
-      case "63jzRCUCfNU":
+      case "6RzdLZT92kC":
         Script193();
         break;
-      case "62HWho7PlyI":
+      case "5zEDYnxiVUu":
         Script194();
         break;
-      case "6DTbb7bKgZ3":
+      case "6VFtcviHvSo":
         Script195();
         break;
-      case "6O0Zg8As03n":
+      case "675rIVxpQfC":
         Script196();
         break;
-      case "5iKWm8DRXJo":
+      case "6miAgESapGC":
         Script197();
         break;
-      case "6A9EnjjnpMR":
+      case "68TV15U1W7S":
         Script198();
         break;
-      case "5t0cApHHQmL":
+      case "6asflQ7MgFM":
         Script199();
         break;
-      case "6gVutLHlNuw":
+      case "5Vc5U2tvcXs":
         Script200();
         break;
-      case "6CWavfJGbY2":
+      case "65nomyZXPfZ":
         Script201();
         break;
-      case "6p01HAVwaaT":
+      case "600jm4sxoPb":
         Script202();
         break;
-      case "6CS40xTBUOq":
+      case "6P1aR5zCgpk":
         Script203();
         break;
-      case "6KIYdos9Dvm":
+      case "5f3eFYAccVA":
         Script204();
         break;
-      case "68VVWHCn1jA":
+      case "6Ltfa6Xfu0o":
         Script205();
         break;
-      case "5pwjQdFMavS":
+      case "64Fmib5ukWf":
         Script206();
         break;
-      case "5V9EzVG7IF1":
+      case "5qnTTNiO5pA":
         Script207();
         break;
-      case "5uLGbEGPK68":
+      case "6CORKAd8IEU":
         Script208();
         break;
-      case "5VfUXSKc27v":
+      case "63H3fb8YJGX":
         Script209();
         break;
-      case "6Mffb9uZnE3":
+      case "6TWbHpf4ngl":
         Script210();
         break;
-      case "5m8wQaGPPPA":
+      case "6KGHX4niLiA":
         Script211();
         break;
-      case "634zcmZPmus":
+      case "6QolQWSc6wB":
         Script212();
         break;
-      case "6CFuJch5I8W":
+      case "646KBiOvful":
         Script213();
         break;
-      case "5qnakOcm4IM":
+      case "5cMSU9PXiVq":
         Script214();
         break;
-      case "6VEsBUqRDTY":
+      case "6dbgPd6548h":
         Script215();
         break;
-      case "66ScZDkoBKL":
+      case "6Qhh4lHwioh":
         Script216();
         break;
-      case "5mWHQjmZ1rk":
+      case "5WTnCWmxPFU":
         Script217();
         break;
-      case "5bpYBA3wuEu":
+      case "5w7vjEvnRQM":
         Script218();
         break;
-      case "671Cm6woZne":
+      case "6ZhlsNJlVxS":
         Script219();
         break;
-      case "5utgUh5K2lq":
+      case "677y0DNfggP":
         Script220();
         break;
-      case "5xV9Vf4PVg0":
+      case "6l124FgSqlG":
         Script221();
         break;
-      case "5mGGCQsbKC7":
+      case "64oxcm6VJHn":
         Script222();
         break;
-      case "63Xvhfb26r2":
+      case "6eYzJjurYvN":
         Script223();
         break;
-      case "6EbpRb9bQ5Y":
+      case "6r8hTCBL4Pe":
         Script224();
         break;
-      case "5y8SpO4uZSC":
+      case "5n1c4cmCFJ1":
         Script225();
         break;
-      case "6DqLKsYKjZi":
+      case "6ebYACCa26C":
         Script226();
         break;
-      case "5sfkBliosnR":
+      case "6CnXOTg4SRo":
         Script227();
         break;
-      case "6DTJUURGprV":
+      case "6e5MmK1xKoK":
         Script228();
         break;
-      case "6SEHPwqoNST":
+      case "6k5UKxCGmc7":
         Script229();
         break;
-      case "5noVskQC3OV":
+      case "67KcQvquunw":
         Script230();
         break;
-      case "6POq1TePbQk":
+      case "6mnFHVVWj8Y":
         Script231();
         break;
-      case "5cMmYc9CaK2":
+      case "6A0hkR1CTvQ":
         Script232();
         break;
-      case "6Uo8kmieNY2":
+      case "6lES1aOiTzZ":
         Script233();
         break;
-      case "5V8cjwnEBQf":
+      case "69fQL60vPFp":
         Script234();
         break;
-      case "5lbXGnc10sM":
+      case "6nlb5tJDqEV":
         Script235();
         break;
-      case "63pBrD7gZoQ":
+      case "5z8sF4RMNSb":
         Script236();
         break;
-      case "6Q7EWWuhMRE":
+      case "6HWuZIGjfQ7":
         Script237();
         break;
-      case "6TZGuNzUQNH":
+      case "5krdy9jrOhY":
         Script238();
         break;
-      case "6Oi1JEMBD01":
+      case "6n7xTvZVaEW":
         Script239();
         break;
-      case "6GSaKrlQrFu":
+      case "63i52j4Yxh6":
         Script240();
         break;
-      case "6V56F0v1uNH":
+      case "6fnwhhID4jA":
         Script241();
         break;
-      case "6DSyJrV8hYS":
+      case "5itvlcNobSR":
         Script242();
         break;
-      case "5ZXTvWmfmNI":
+      case "5sbDtJ48rSb":
         Script243();
         break;
-      case "6kYHxhUA3lu":
+      case "6Y8Xhh9g3zF":
         Script244();
         break;
-      case "61sUIWrK57b":
+      case "5nXGjoerOxm":
         Script245();
         break;
-      case "5sKM3AP5kYL":
+      case "5dpxtWI0wF2":
         Script246();
         break;
-      case "5ryUYejZymN":
+      case "5ta1eXovzuC":
         Script247();
         break;
-      case "6pdnFHEGSlz":
+      case "6Wz0QxzVOyb":
         Script248();
         break;
-      case "60p29LSAHvK":
+      case "6qiB6dUeuNF":
         Script249();
         break;
-      case "5eNoxXLU0hp":
+      case "6YpdL9Y7j2T":
         Script250();
         break;
-      case "60JYxVYaAp6":
+      case "6RBut207g3R":
         Script251();
         break;
-      case "6V2ifZ7uupe":
+      case "6RCbf69NhKv":
         Script252();
         break;
-      case "5V8keEFfv8S":
+      case "6KMX5ykoN7N":
         Script253();
         break;
-      case "5rDyqwh32gG":
+      case "5vz9IMsNF9B":
         Script254();
         break;
-      case "5dIIIsCD3fH":
+      case "69gLS40bJDs":
         Script255();
         break;
-      case "6jt1jFNkkSA":
+      case "6ovlGQhW3QZ":
         Script256();
         break;
-      case "6MAJkXE8zoy":
+      case "6AyzAFrfdn1":
         Script257();
         break;
-      case "5meKpM5vIfC":
+      case "6a6uuyYIdhb":
         Script258();
         break;
-      case "6OXG44wYeBB":
+      case "5cuO7DrRq2P":
         Script259();
         break;
-      case "6fNc1cKCeqn":
+      case "6WHeaGb833j":
         Script260();
         break;
-      case "6HUPsv3KICR":
+      case "5p6NRaXVpAu":
         Script261();
         break;
-      case "5W4h1J42xee":
+      case "6hrFApoYqJK":
         Script262();
         break;
-      case "5cEtDvPsAHI":
+      case "5fk0JD8TTa9":
         Script263();
         break;
-      case "5XdGhzQS3kp":
+      case "6kaPXrKugHA":
         Script264();
         break;
-      case "6EhANKv1ETz":
+      case "5Z16JsFUrQ9":
         Script265();
         break;
-      case "66V1i3jMRi0":
+      case "5mIQNThu8az":
         Script266();
         break;
-      case "6mOIBmjLnSr":
+      case "5zbTq8OZu9k":
         Script267();
         break;
-      case "5u7lMRVywwf":
+      case "6MyZHZdjCUA":
         Script268();
         break;
-      case "5zUn7hNjA3i":
+      case "6euM8wi5wFL":
         Script269();
         break;
-      case "6KDGP6Z17Md":
+      case "6Xi8t3nUhWr":
         Script270();
         break;
-      case "63qjaCIIQHn":
+      case "6fr8nMEj6te":
         Script271();
         break;
-      case "6gLKivYtbGz":
+      case "5bZRybdI0j6":
         Script272();
         break;
-      case "5df9emAVSOX":
+      case "5ePl4gs3lTC":
         Script273();
         break;
-      case "642RZkNY1EP":
+      case "6ReHUGomMUZ":
         Script274();
         break;
-      case "647RkOe5vzt":
+      case "6mWHWKHDAeU":
         Script275();
         break;
-      case "6RzCh5jAxYF":
+      case "5gFKa0aUPcq":
         Script276();
         break;
-      case "5aG5BcThEip":
+      case "6eJZq83Wk35":
         Script277();
         break;
-      case "5mDjnItGekm":
+      case "5mI8SU5IBYH":
         Script278();
         break;
-      case "5ulHfz3cpJ5":
+      case "6l8U5nFpgUo":
         Script279();
         break;
-      case "6EEfBRMGoCR":
+      case "62QsUFpptmm":
         Script280();
         break;
-      case "6d8xdjA0Rnd":
+      case "6d6c0bLMD4I":
         Script281();
         break;
-      case "5wnauIXHkqE":
+      case "64O3mLzURnO":
         Script282();
         break;
-      case "6g1XPqVzTCp":
+      case "68Y5evXZnpA":
         Script283();
         break;
-      case "6O9R2RcMtfi":
+      case "6ATaO4pkTBb":
         Script284();
         break;
-      case "6610uSKh3XX":
+      case "5hWYzc6PGzf":
         Script285();
         break;
-      case "67kITmd3hkH":
+      case "6XNq7BAFy7h":
         Script286();
         break;
-      case "68JWD0x95qn":
+      case "61mw6D0Ugt8":
         Script287();
         break;
-      case "61lvzZ530Fh":
+      case "5W1VUJ4578b":
         Script288();
         break;
-      case "5ZlQbWbLiVs":
+      case "5tR9bzbO3Fa":
         Script289();
         break;
-      case "6434iJ5r86O":
+      case "6dHAJ9Szd7f":
         Script290();
         break;
-      case "5dThwmGVzUo":
+      case "6LgL0hppo6O":
         Script291();
         break;
-      case "6ISDfiIk4FS":
+      case "5wwjiZrqTUU":
         Script292();
         break;
-      case "6jvmOsTh9dr":
+      case "6EqZ9YAQ4XP":
         Script293();
         break;
-      case "5XKgr9fEPTz":
+      case "6nPO5PK7S4m":
         Script294();
         break;
-      case "5mpQim9fuEq":
+      case "6MCBgphbduj":
         Script295();
         break;
-      case "6Guz6kgNBaf":
+      case "5jP8aoveyBF":
         Script296();
         break;
-      case "6NJ43OlxGhh":
+      case "6LuA0Nc1yWo":
         Script297();
         break;
-      case "6ENaZVIbxUo":
+      case "6kPUCWQQQzg":
         Script298();
         break;
-      case "6Qvo48nkBwa":
+      case "6hjcIrQWc2E":
         Script299();
         break;
-      case "6O7T6tIJl2C":
+      case "5jSMSZlMyhk":
         Script300();
         break;
-      case "5YvLhiN8tRy":
+      case "6mwJqRicZ7V":
         Script301();
         break;
-      case "5y0hFmzESik":
+      case "5ltJTUOty1G":
         Script302();
         break;
-      case "6VTsonBOsAj":
+      case "5ansfXz2Lhu":
         Script303();
         break;
-      case "6BtggOqBQMo":
+      case "6eNl6M7XmDq":
         Script304();
         break;
-      case "5oi5MrTlPiK":
+      case "670fHAmTpgk":
         Script305();
         break;
-      case "6Cm6vPptZew":
+      case "5Uk8QFrSNna":
         Script306();
         break;
-      case "5dD2UIpIlk5":
+      case "6k4M4KBI8uU":
         Script307();
         break;
-      case "5jJJpKrFopM":
+      case "5l0OyuH05ec":
         Script308();
         break;
-      case "64PV5YziRWt":
+      case "5hNSue6Fbkr":
         Script309();
         break;
-      case "5WYWW6UIota":
+      case "5f743OFtFMa":
         Script310();
         break;
-      case "5k7fsEVAPBO":
+      case "6AIpsU5eCMq":
         Script311();
         break;
-      case "6fuzsEphkJz":
+      case "6qkZajydCEE":
         Script312();
         break;
-      case "68qcgcbtDDc":
+      case "6ptXmCP34dN":
         Script313();
         break;
-      case "5tdOdooxtYr":
+      case "6GfgUGZg60z":
         Script314();
         break;
-      case "5nMGjDGfQxA":
+      case "5dxbLSBGAh3":
         Script315();
         break;
-      case "6kORso4uHgd":
+      case "6deB8GeGOep":
         Script316();
         break;
-      case "5f47r5msGXE":
+      case "6G8ObSjKYCF":
         Script317();
         break;
-      case "6MrWiSOMWc8":
+      case "5ZlZlaCPnay":
         Script318();
         break;
-      case "6X3TdyQyXnc":
+      case "6ejYXmYMYUL":
         Script319();
         break;
-      case "5xmYbZnNGbB":
+      case "5XsYrdBi5E0":
         Script320();
         break;
-      case "68pLGfhEB0I":
+      case "6BMGQfToDQz":
         Script321();
         break;
-      case "5fJKxk4eyZE":
+      case "6VBVChPli1S":
         Script322();
         break;
-      case "6KuzVxh8iFj":
+      case "6FCnqPHHltq":
         Script323();
         break;
-      case "5jymotJA7Hw":
+      case "6mRmUW1h537":
         Script324();
         break;
-      case "6llp9CYet3o":
+      case "614THq5BypE":
         Script325();
         break;
-      case "5oNcYsJrLtM":
+      case "6ElpAjMJNKw":
         Script326();
         break;
-      case "5pEjZw2Vhwm":
+      case "6lrTy6GA6YA":
         Script327();
         break;
-      case "6W6ZrYSY89g":
+      case "6aqOa9JPgEa":
         Script328();
         break;
-      case "5zgBwoUQq1Y":
+      case "6TOfuMHkzpz":
         Script329();
         break;
-      case "5mtBpynt5zC":
+      case "6E3zrz6q0hC":
         Script330();
         break;
-      case "5yF8ljYxmiR":
+      case "5n0qqv9RoXd":
         Script331();
         break;
-      case "6UgQi49Taup":
+      case "5foEgeVHtSZ":
         Script332();
         break;
-      case "642JEGFVwFs":
+      case "5ZZ9lSOkzCh":
         Script333();
         break;
-      case "5jj6SK4on0t":
+      case "5hN5LZYlXQr":
         Script334();
         break;
-      case "6jiAqRkpOnv":
+      case "6HtwG9GHYTw":
         Script335();
         break;
-      case "6gNIvCA6yC2":
+      case "6RpIke0aNJs":
         Script336();
         break;
-      case "6apjFratOPO":
+      case "6XgxTimsFjh":
         Script337();
         break;
-      case "5wjksj9IAZs":
+      case "6069jRLgI4H":
         Script338();
         break;
-      case "5iyFiZXpE2l":
+      case "6XdSWmjZpuD":
         Script339();
         break;
-      case "6dnVOD0PHiQ":
+      case "6aQS9FYiYsD":
         Script340();
         break;
-      case "6PNA0agCdGL":
+      case "5vfSFbcfcAt":
         Script341();
         break;
-      case "6gGmWwLD70d":
+      case "5gXGTmpgKYy":
         Script342();
         break;
-      case "6Z34atJjakp":
+      case "6TopA5U6hse":
         Script343();
         break;
-      case "6lx1GcYfXbx":
+      case "61Xc7zAkIDM":
         Script344();
         break;
-      case "63M7BZNOxgq":
+      case "5qmAeneJvCs":
         Script345();
         break;
-      case "6LvU5PgRQFN":
+      case "6UJ7kV5JfhQ":
         Script346();
         break;
-      case "6k19eoWDC0H":
+      case "6nPtEqkUZhL":
         Script347();
         break;
-      case "6gcPr6IVEOh":
+      case "6kUvSlfBqkP":
         Script348();
         break;
-      case "6bxfCRGdxU3":
+      case "67XrohQG6pE":
         Script349();
         break;
-      case "6ouw07rymU8":
+      case "60u6EtKVYsZ":
         Script350();
         break;
-      case "6UzIaQ1XY0a":
+      case "6bcEpsozkuF":
         Script351();
         break;
-      case "6pQxWqZLMNp":
+      case "6LnxNZdwD0w":
         Script352();
         break;
-      case "6UjxP8fcsTd":
+      case "5zjBdxHkO0A":
         Script353();
         break;
-      case "6dWRiJBpbsr":
+      case "6N00MkRBqPT":
         Script354();
         break;
-      case "6pkUAixbyz3":
+      case "5fESPHPNwag":
         Script355();
         break;
-      case "6fyG4r8bXdS":
+      case "6327E9APdBL":
         Script356();
         break;
-      case "5pvTalGjgr2":
+      case "64nJZHxrLuS":
         Script357();
         break;
-      case "6b4CK79ni22":
+      case "6i8EhSlzOJ3":
         Script358();
         break;
-      case "5qkKWREv8Aw":
+      case "60W047HqCpc":
         Script359();
         break;
-      case "5UtL1JmpXNb":
+      case "5pO9iK4xBbB":
         Script360();
         break;
-      case "5g1rbDfCgAT":
+      case "6SENWNveSS1":
         Script361();
         break;
-      case "5x4PKVkhOhJ":
+      case "6cXdvlywpbr":
         Script362();
         break;
-      case "6pv6jujiGJD":
+      case "6eiWbL0CXtk":
         Script363();
         break;
-      case "6B8B5501whm":
+      case "5ys7yocmdXB":
         Script364();
         break;
-      case "6qIWW7r2jkT":
+      case "5k0WlOcT2Tj":
         Script365();
         break;
-      case "5YAn0Izvfah":
+      case "5kulaU5vXc8":
         Script366();
         break;
-      case "5YYT8ZUvL8V":
+      case "62sqPLTk149":
         Script367();
         break;
-      case "607TeTPdI81":
+      case "5wbTq0U1Mk4":
         Script368();
         break;
-      case "6XrGX0W2GlI":
+      case "5iY7hKP5sy5":
         Script369();
         break;
-      case "5om1N0LKClq":
+      case "68NFfa9IxY0":
         Script370();
         break;
-      case "5s4Q5b2Tiqs":
+      case "6HR7C47RmkS":
         Script371();
         break;
-      case "6VByVNvqqK4":
+      case "6S0a2WhhFca":
         Script372();
         break;
-      case "5w884NRX5AQ":
+      case "6i0gt6g0U7S":
         Script373();
         break;
-      case "5wNK91WrbzE":
+      case "5rWzF7Dlaex":
         Script374();
         break;
-      case "5hq0Cdn3bla":
+      case "5fePb6Oxkbb":
         Script375();
         break;
-      case "66ac7xSWJqL":
+      case "6GjZ39RFMkT":
         Script376();
         break;
-      case "5gy3mUGEoPW":
+      case "6Ib0LaVGaxg":
         Script377();
         break;
-      case "6Ga92dNJo6S":
+      case "6QxH2mU3Ldj":
         Script378();
         break;
-      case "5sghpIskkrd":
+      case "5xVjCP76FlO":
         Script379();
         break;
-      case "64mT6HVg0pc":
+      case "6908Mgiovsh":
         Script380();
         break;
-      case "6diT5ZxNqnT":
+      case "6qoN03UxuWv":
         Script381();
         break;
-      case "5v4RJoolcKg":
+      case "6FsToJXWdH3":
         Script382();
         break;
-      case "5aPRnylq3Sj":
+      case "5wmDgcUrYIi":
         Script383();
         break;
-      case "6cRIqxPShOO":
+      case "5elfqd3GtpT":
         Script384();
         break;
-      case "6pRqrpGiHl3":
+      case "5dMpeSgSFdB":
         Script385();
         break;
-      case "6hiIPuEaR9R":
+      case "6AiOfgXAqQR":
         Script386();
         break;
-      case "6jJINubZw7h":
+      case "6ceypB7js3k":
         Script387();
         break;
-      case "5vVE1aXghh0":
+      case "5pW62m4y7wh":
         Script388();
         break;
-      case "5gIltaO14CJ":
+      case "6Mm6OaP9RgN":
         Script389();
         break;
-      case "5Uw1OEiZ2A5":
+      case "5dcZ0gVDyHg":
         Script390();
         break;
-      case "64cAJP6ixoH":
+      case "6FmBZ6HpYaU":
         Script391();
         break;
-      case "6KJhWXy71km":
+      case "5qxBLWESYoo":
         Script392();
         break;
-      case "6iyMe7rmI9O":
+      case "6XSv9tpILla":
         Script393();
         break;
-      case "6nZzF4iT27m":
+      case "5WOVi285MNE":
         Script394();
         break;
-      case "6exygrhf7a2":
+      case "5hwZYEJgm7S":
         Script395();
         break;
-      case "6CLdQEXd3aC":
+      case "6ObGFKByZYe":
         Script396();
         break;
-      case "6pFayRjlqkz":
+      case "6MJsu71hw08":
         Script397();
         break;
-      case "5uQBasc0BtI":
+      case "5ctwnwza2T8":
         Script398();
         break;
-      case "5yDBoA5R87J":
+      case "6XfvaZT1OxT":
         Script399();
         break;
-      case "6HGRPpeJ8Xl":
+      case "66nTsyuGX8b":
         Script400();
         break;
-      case "6QrhoxVIV3r":
+      case "6OVir0xfguB":
         Script401();
         break;
-      case "6PPpoaQDPVd":
+      case "5pWSKG1L5eu":
         Script402();
         break;
-      case "5aX40mmB4ZN":
+      case "5el4Uc43Sol":
         Script403();
         break;
-      case "5izn162qLy9":
+      case "6fbo9fCc0Jh":
         Script404();
         break;
-      case "5eqrybF9Dbv":
+      case "663O9T0rXeV":
         Script405();
         break;
-      case "6olT0lGTJkz":
+      case "5aTaVyEAa6l":
         Script406();
         break;
-      case "64RaPYZw2Kw":
+      case "5zIKhndxhhE":
         Script407();
         break;
-      case "69wSrpbyVOT":
+      case "6NHvMaCVIAZ":
         Script408();
         break;
-      case "6i3ILUGnprF":
+      case "63y9s6d3Xng":
         Script409();
         break;
-      case "5yMWkRiBkCz":
+      case "6bXirYkn46X":
         Script410();
         break;
-      case "6Up6uUQTQzX":
+      case "5uHJFRqBuvJ":
         Script411();
         break;
-      case "6S04sGO0wa7":
+      case "6mTwoayCero":
         Script412();
         break;
-      case "5uuvCPBIn2E":
+      case "5fzVXfvBf7m":
         Script413();
         break;
-      case "6em84p0gKFo":
+      case "6Xp3a82idkS":
         Script414();
         break;
-      case "5cazaUgQJcF":
+      case "5bfWwDCZLUT":
         Script415();
         break;
-      case "6iHKcr957Rl":
+      case "6TJ8VO0NdVt":
         Script416();
         break;
-      case "6apNZADamXH":
+      case "5aQPgjm6QnI":
         Script417();
         break;
-      case "6j403hHepOC":
+      case "63dMk1u2sct":
         Script418();
         break;
-      case "6i9e7kJROb7":
+      case "5dpk2TS3TW7":
         Script419();
         break;
-      case "5wbzDar3NoQ":
+      case "63ng6pEGPAO":
         Script420();
         break;
-      case "6KOHtZkh8Jy":
+      case "6FsM551Oaka":
         Script421();
         break;
-      case "5v5Wmjm3b0G":
+      case "6GGNua7898b":
         Script422();
         break;
-      case "5fN2SbYMCHv":
+      case "5nzbQcb59CS":
         Script423();
         break;
-      case "6K9zlENCg5S":
+      case "6Jc6iFT11b3":
         Script424();
         break;
-      case "6MIegGvBOPY":
+      case "6ZVf7BPadrF":
         Script425();
         break;
-      case "6UppDlJI7Rk":
+      case "6MoiQyWZOCb":
         Script426();
         break;
-      case "5mnZLOs8jUn":
+      case "5nUXRAYmnsR":
         Script427();
         break;
-      case "5zCme9llTBr":
+      case "5bwz9KwlYdq":
         Script428();
         break;
-      case "6Ch4WSHPIH8":
+      case "5jw471IhVpi":
         Script429();
         break;
-      case "5eJAYUnrf0l":
+      case "5WTUi0hloYB":
         Script430();
         break;
-      case "6L7XUcjHe6R":
+      case "6AMFe5Uvoxb":
         Script431();
         break;
-      case "5tXDiiX1KNS":
+      case "5x4mqcDhebk":
         Script432();
         break;
-      case "6H3ZeykcdAW":
+      case "5aalryhI2V2":
         Script433();
         break;
-      case "5rvdhl8n4gz":
+      case "5rMVtgVYmJI":
         Script434();
         break;
-      case "6jk2zq0gTQf":
+      case "6L0A4x9ekRi":
         Script435();
         break;
-      case "5hkWOwk0StA":
+      case "5ybEDkqUs3W":
         Script436();
         break;
-      case "6leMnxrzbiO":
+      case "6achzSSkHLw":
         Script437();
         break;
-      case "6P1CtULuu54":
+      case "6crtO8ufnX9":
         Script438();
         break;
-      case "6BZMat7tWdp":
+      case "6l2DnsqRrYJ":
         Script439();
         break;
-      case "6aWYUDdEabN":
+      case "66Wts0Dc9Xt":
         Script440();
         break;
-      case "5V3Pkqf7oza":
+      case "6iN7JNh2KEh":
         Script441();
         break;
-      case "5V6zhcQlzhf":
+      case "6846GzOsb5i":
         Script442();
         break;
-      case "5rVftGWIszH":
+      case "6Tfari4bUjv":
         Script443();
         break;
-      case "6iMEPPpsTPi":
+      case "624EBpqlvQs":
         Script444();
         break;
-      case "64BCFmCZOiH":
+      case "5q8JKyVotrb":
         Script445();
         break;
-      case "6GQBi1ybIQu":
+      case "5b25NfhcQsH":
         Script446();
         break;
-      case "6T1MySPIZRf":
+      case "61QpcFoO2MJ":
         Script447();
         break;
-      case "64909ef15ph":
+      case "5xL3SInCYdR":
         Script448();
         break;
-      case "5tv1Lm102bP":
+      case "5ZZIgc1UrZL":
         Script449();
         break;
-      case "5iayeSS6thb":
+      case "5gQtHBDPhmu":
         Script450();
         break;
-      case "6mPpp2WkY7w":
+      case "6VizVI3wnwh":
         Script451();
         break;
-      case "5xhndIXXZZF":
+      case "6mujK5xDXBP":
         Script452();
         break;
-      case "5pgu5mhRnNB":
+      case "5VJq1BQG126":
         Script453();
         break;
-      case "64GkGMItNrz":
+      case "5qlEIsBx8Ly":
         Script454();
         break;
-      case "6J4Rtkyt3HE":
+      case "6hwO3iE8hki":
         Script455();
         break;
-      case "5k9e7sH9ghu":
+      case "5lSFVCspR5p":
         Script456();
         break;
-      case "67KCgzidKSP":
+      case "6fwtq69WqjJ":
         Script457();
         break;
-      case "5gt5RUDqAvG":
+      case "5gpKPL2OmIo":
         Script458();
         break;
-      case "643a29zqXFb":
+      case "65Ze6Fp03ue":
         Script459();
         break;
-      case "6LSKNhU2AN6":
+      case "5ZnTTPuMiGB":
         Script460();
         break;
-      case "5wt4Shxrb4A":
+      case "6LkwPnfAPdd":
         Script461();
         break;
-      case "6WuQclih1Ah":
+      case "6cGSsVVxlcQ":
         Script462();
         break;
-      case "5pJiVVAmbSM":
+      case "5qWV8J0Muiu":
         Script463();
         break;
-      case "63XdiuMS1xA":
+      case "6W3INS9izAT":
         Script464();
         break;
-      case "6Rzcurqjqn9":
+      case "6Qf2caofqg4":
         Script465();
         break;
-      case "6HA6BpkFRzO":
+      case "6pxPxJIIgaB":
         Script466();
         break;
-      case "5sjqSsWicBh":
+      case "6fVQKzvAm9y":
         Script467();
         break;
-      case "6QK008dtHil":
+      case "5oAb6hBKjRg":
         Script468();
         break;
-      case "6S4WyClcm0N":
+      case "5uPW5iso51j":
         Script469();
         break;
-      case "63YQqTLiIFW":
+      case "5viRzfv8SiU":
         Script470();
         break;
-      case "5zcmYGLnwf1":
+      case "6R0w4yrNP2M":
         Script471();
         break;
-      case "5jtJRvZOFXc":
+      case "6q1vClh4L20":
         Script472();
         break;
-      case "62Cc4h5DXTz":
+      case "5qq8Z55YolR":
         Script473();
         break;
-      case "5X7w0K4KKQC":
+      case "5s0zuJlUQkJ":
         Script474();
         break;
-      case "5bSfrz1P8Bp":
+      case "6hvihqnOjrP":
         Script475();
         break;
-      case "6Mn4wxzc9Eq":
+      case "6fSIpsYYc0v":
         Script476();
         break;
-      case "6Pkcv2tzQ5c":
+      case "5rjVQ57qh6P":
         Script477();
         break;
-      case "6l5VUJq0nWP":
+      case "5e8cwFSnPml":
         Script478();
         break;
-      case "6GtBAifWnWf":
+      case "6Ap7NBU0Gm6":
         Script479();
         break;
-      case "5lhHtqxDzoj":
+      case "5Wa1uaHqD0G":
         Script480();
         break;
-      case "6JeqhFyVMSY":
+      case "6j58UnCQ31w":
         Script481();
         break;
-      case "61RVeLWjgVd":
+      case "6Zzo2Gqh0uP":
         Script482();
         break;
-      case "62iaRehQOjo":
+      case "6HQ8tMY4ldd":
         Script483();
         break;
-      case "6N0KQ4gWmeG":
+      case "67qVx7Ob7By":
         Script484();
         break;
-      case "6l7w15GsgZp":
+      case "6UGqClXPJrj":
         Script485();
         break;
-      case "6XCTOcXCFEe":
+      case "5j0VcNnAjwE":
         Script486();
         break;
-      case "68vDLOGehyk":
+      case "6cT7cTlfUPZ":
         Script487();
         break;
-      case "6QuiudHy5JZ":
+      case "5wb8n2XXy4o":
         Script488();
         break;
-      case "6BsZsa5OxBi":
+      case "6rIJKMqZJ2l":
         Script489();
         break;
-      case "5YJPA1VgJf3":
+      case "6KO0rQAUrkU":
         Script490();
         break;
-      case "6dDPbOAmMXZ":
+      case "6G11gNWlHk2":
         Script491();
         break;
-      case "5uVU6jcUt71":
+      case "6a1mWaDVUSR":
         Script492();
         break;
-      case "696T28WRFIH":
+      case "6VX7dp8NQ7R":
         Script493();
         break;
-      case "67r4ZaUlet2":
+      case "6qVciwhMpkR":
         Script494();
         break;
-      case "68WfGqMfJMZ":
+      case "5WyW6C1sFJo":
         Script495();
         break;
-      case "6rGb6leZ9yA":
+      case "6qkWZ50wIaA":
         Script496();
         break;
-      case "68kRxphOoZ0":
+      case "5rYLsEGdGDF":
         Script497();
         break;
-      case "6WgMvccQmKq":
+      case "6VnmwVtCDpR":
         Script498();
         break;
-      case "5V9teOvQRj2":
+      case "6dpoa2nlDI2":
         Script499();
         break;
-      case "6liCXCxLn7Z":
+      case "6qiara5DGL3":
         Script500();
         break;
-      case "6aZXr1lMDvH":
+      case "66LSJxfWceS":
         Script501();
         break;
-      case "6fwFGfU6ySz":
+      case "5wAr3TOghsW":
         Script502();
         break;
-      case "6Bxi2yNsvAI":
+      case "5vmz0vqjQlc":
         Script503();
         break;
-      case "6RFJTRwM9pE":
+      case "62JwDCgD1hv":
         Script504();
         break;
-      case "6kIOe3QEJmR":
+      case "66fhODp4DhV":
         Script505();
         break;
-      case "6IUhuAV8zBk":
+      case "5dUGDcAX6Iy":
         Script506();
         break;
-      case "6qGDBSDhgmT":
+      case "5lJwXJzieMc":
         Script507();
         break;
-      case "6q29KTKuva1":
+      case "66DlK7qfvpj":
         Script508();
         break;
-      case "6q2Pok011tn":
+      case "6WowAMBFCRO":
         Script509();
         break;
-      case "6Ha3YZpju6Y":
+      case "6IomS4KHzRD":
         Script510();
         break;
-      case "68Uy42MBrEE":
+      case "6IuyJfUzpcu":
         Script511();
         break;
-      case "6B5fhAzH9yh":
+      case "6ocPCB9wuin":
         Script512();
         break;
-      case "6nLXVpD4a4t":
+      case "6fvFg4REgZI":
         Script513();
         break;
-      case "6CRx6TcATqI":
+      case "5yNjKeJMlRu":
         Script514();
         break;
-      case "5Xp5Et0XqiT":
+      case "6mSs9i3IbDd":
         Script515();
         break;
-      case "5dgBQ4dyET3":
+      case "6ZJLOeJLdpH":
         Script516();
         break;
-      case "6REdkJWX63G":
+      case "5m2KYHfaLY9":
         Script517();
         break;
-      case "6ZL8sff8qJX":
+      case "6poFJ9Nj48n":
         Script518();
         break;
-      case "5zaKBUbAibf":
+      case "6fXLdJBENgQ":
         Script519();
         break;
-      case "5zvZZ41hywd":
+      case "6OenCNhV4fu":
         Script520();
         break;
-      case "6Ig9CNx4lKL":
+      case "6WQa4xnVIUE":
         Script521();
         break;
-      case "6EP2h7O8JJv":
+      case "6BpsQ99pL74":
         Script522();
         break;
-      case "643kSWciO1I":
+      case "5kMAcqD8WFw":
         Script523();
         break;
-      case "66opdGwrX7L":
+      case "5sBeP3Gsh3j":
         Script524();
         break;
-      case "5vv19Opvjtc":
+      case "5ZkAc8EsCLv":
         Script525();
         break;
-      case "6dPeNQsXuDU":
+      case "6JIgRwFJUcG":
         Script526();
         break;
-      case "6YBqoC87jqD":
+      case "60r0v0Qfl7P":
         Script527();
         break;
-      case "5WsPZmwO4Oj":
+      case "5g3RPtbhNb8":
         Script528();
         break;
-      case "6qu96w0Ntiq":
+      case "6ZFF8dITAr9":
         Script529();
         break;
-      case "66GG0bzPKjk":
+      case "6hTISS3sA8Q":
         Script530();
         break;
-      case "6eTsQFBkidn":
+      case "6HcqGYI1Kpu":
         Script531();
         break;
-      case "5hgBmrQSBwG":
+      case "5sxtsKVG9SM":
         Script532();
         break;
-      case "6qDgKO4PCXy":
+      case "5ub7oN20LPN":
         Script533();
         break;
-      case "6RMjpm5DZIY":
+      case "6DI4I0g9vsT":
         Script534();
         break;
-      case "6M9wAoq3zgi":
+      case "66rysuZuYDm":
         Script535();
         break;
-      case "6hqgJzH5cEM":
+      case "6AbdrUgbgQ2":
         Script536();
         break;
-      case "5tuyF12yTPW":
+      case "5wxmCCN6i5N":
         Script537();
         break;
-      case "6Il7QQDjOh4":
+      case "66Y8p57LDSQ":
         Script538();
         break;
-      case "6JbMk13W51o":
+      case "6efx11tySUJ":
         Script539();
         break;
-      case "6nLxUL5dWT2":
+      case "5UlI13oLSOs":
         Script540();
         break;
-      case "6kR6hvg9WqM":
+      case "5pmproxjYn6":
         Script541();
         break;
-      case "63fgUwYso7O":
+      case "6rGctC08qAk":
         Script542();
         break;
-      case "6isQAaPssZX":
+      case "5kshEuckmna":
         Script543();
         break;
-      case "6FkgovoU0UP":
+      case "6q7qu7VREUA":
         Script544();
         break;
-      case "5s6XYzpN8ej":
+      case "65OOIi0vfqH":
         Script545();
         break;
-      case "6KzqFdCyRxz":
+      case "67GS1OZAWhN":
         Script546();
         break;
-      case "5zCA6ODo22g":
+      case "6lPTgAGyMuQ":
         Script547();
         break;
-      case "6FRgVztDWCD":
+      case "5mNFathJNad":
         Script548();
         break;
-      case "5Z87foPOkqH":
+      case "6d25huGJs0J":
         Script549();
         break;
-      case "6N2LurzNV0A":
+      case "6StNsj763SF":
         Script550();
         break;
-      case "6Rp9oSHU2nB":
+      case "62mMUiEYJR4":
         Script551();
         break;
-      case "5YrmGqHI4k4":
+      case "6B8dSYJphD8":
         Script552();
         break;
-      case "6cu9KWIcZAL":
+      case "5cJBuXF8J3h":
         Script553();
         break;
-      case "6mfmJ25xEEz":
+      case "6MUebK9A34L":
         Script554();
         break;
-      case "68oNdsQFcFq":
+      case "6p4RrmvxI6P":
         Script555();
         break;
-      case "5oqwj6cg2r1":
+      case "64LpjC6g8XY":
         Script556();
         break;
-      case "6irbXMLGsTD":
+      case "6VQwkFwLX81":
         Script557();
         break;
-      case "6aKYEhle18r":
+      case "61JVOUtMzYm":
         Script558();
         break;
-      case "5jn1ARy9CNp":
+      case "606cm5fbgCY":
         Script559();
         break;
-      case "5twD7oQal8i":
+      case "5ghCL2TkDwu":
         Script560();
         break;
-      case "6MaekpHagOL":
+      case "6UfWFpe5EFz":
         Script561();
         break;
-      case "5v4rtiOftiJ":
+      case "6oyxM0hSmqc":
         Script562();
         break;
-      case "6YULgZ8XiL6":
+      case "6DTpa1db6OV":
         Script563();
         break;
-      case "6oWqdbntEoG":
+      case "6bBS6Hq81uN":
         Script564();
         break;
-      case "6DvkIQC504j":
+      case "608V6PvuU14":
         Script565();
         break;
-      case "634mdyC6EeI":
+      case "6qcjEIOqY6I":
         Script566();
         break;
-      case "5ifrYQ7a282":
+      case "6WLvBuLYUNB":
         Script567();
         break;
-      case "6dcLOYBIGfx":
+      case "5nA1GpSrPPX":
         Script568();
         break;
-      case "5tzLcRxiAFC":
+      case "6VoKZ8Gp0oN":
         Script569();
         break;
-      case "5x0tWBmCPl5":
+      case "5lU6Q8RgVSR":
         Script570();
         break;
-      case "6ecVO6rHMg7":
+      case "5zPuIXoNqaI":
         Script571();
         break;
-      case "668g4SRiD2y":
+      case "6nECRhB7mPm":
         Script572();
         break;
-      case "6gRaZleB4Pe":
+      case "5gCruVknIkq":
         Script573();
         break;
-      case "6JsE4SyLNP3":
+      case "64TdP5gvpPE":
         Script574();
         break;
-      case "5hSVVtUl0Kf":
+      case "6FoAYBKxcNr":
         Script575();
         break;
-      case "62RsEinpzag":
+      case "5YGyn92l0ps":
         Script576();
         break;
-      case "5tvc9F8lHBm":
+      case "6nKf5yGNIkS":
         Script577();
         break;
-      case "6ci8k9W2Uc4":
+      case "6plJxKMrQuz":
         Script578();
         break;
-      case "6eWBl9XqtIA":
+      case "6aBohi5Tcto":
         Script579();
         break;
-      case "6Aq8JTQt3o4":
+      case "6FdFjgewCrQ":
         Script580();
         break;
-      case "6oGCZ42eplm":
+      case "64D3hONob5v":
         Script581();
         break;
-      case "5Zn9fErH1kW":
+      case "6qgw79fGy5J":
         Script582();
         break;
-      case "6W69alhDx9b":
+      case "6HDVwcKZUBW":
         Script583();
         break;
-      case "5Z4XPVKd0IM":
+      case "632XbsYMyEu":
         Script584();
         break;
-      case "5dTFuSLQWg4":
+      case "6dPf3JGfY66":
         Script585();
         break;
-      case "6jL3PaqWCM7":
+      case "5WGx8ZpCLi6":
         Script586();
         break;
-      case "5aBvCIVr78z":
+      case "6JNDCHnoO48":
         Script587();
         break;
-      case "5dKqknLfAU1":
+      case "6SYCdZm0IUP":
         Script588();
         break;
-      case "6lW4fYPFSkT":
+      case "5xXwj8RsRPn":
         Script589();
         break;
-      case "64UP7BX2BeV":
+      case "5X0wephhBHY":
         Script590();
         break;
-      case "6SLA9aeY503":
+      case "6M89HMzqahK":
         Script591();
         break;
-      case "5cSTWgTO6bj":
+      case "68FDtT4XHSE":
         Script592();
         break;
-      case "6TxVh2prKtX":
+      case "6pR0ZMeQhbC":
         Script593();
         break;
-      case "6o2jMJdAfHl":
+      case "6Ser6lOd3S7":
         Script594();
         break;
-      case "6SV34yVTsmu":
+      case "5d8gQufO3Vb":
         Script595();
         break;
-      case "5wGzrSMWGnG":
+      case "6j5uQBkUIc1":
         Script596();
         break;
-      case "5WsX6QzIIyB":
+      case "5kg9O9SVcY3":
         Script597();
         break;
-      case "5oU0QdS1eW1":
+      case "5X2dvUVlvOp":
         Script598();
         break;
-      case "5jseO20eVZg":
+      case "6k5ByyoQWcW":
         Script599();
         break;
-      case "64zOsZ9aKnb":
+      case "5mihLbld8wt":
         Script600();
         break;
-      case "5w6DQmdxIsN":
+      case "5rl2cJol5Dj":
         Script601();
         break;
-      case "6j6jXExcrod":
+      case "69JHr6MuOwa":
         Script602();
         break;
-      case "6YOgPdHcTsa":
+      case "6MeKLg13Uby":
         Script603();
         break;
-      case "6IZdJzuV1aq":
+      case "6iZHhhOFkFR":
         Script604();
         break;
-      case "6lds21qhdJ3":
+      case "6NxCrUyxLFC":
         Script605();
         break;
-      case "6jw8UQithJm":
+      case "6o8U7cz1Cnb":
         Script606();
         break;
-      case "6SVrj0Xz6F0":
+      case "6BlfVzqRuYe":
         Script607();
         break;
-      case "5rJtjE9YReA":
+      case "5x98810galM":
         Script608();
         break;
-      case "61PCOoYY985":
+      case "5qURbkf5vgY":
         Script609();
         break;
-      case "5sVaYUkQv1S":
+      case "5ta3iDfGIrO":
         Script610();
         break;
-      case "5YxZ1zZeVFa":
+      case "6SddNAY4SPy":
         Script611();
         break;
-      case "5vO12o0blX9":
+      case "5gZUNiyvjjE":
         Script612();
         break;
-      case "6T7Tn1c7pmn":
+      case "5m0LbYg7H3f":
         Script613();
         break;
-      case "6Z6FVphhnf5":
+      case "5WEz75DpHvy":
         Script614();
         break;
-      case "6kusJrdkqGI":
+      case "6qO2VaWzphC":
         Script615();
         break;
-      case "5uhk92sxjfH":
+      case "6ZGoLPKtnO7":
         Script616();
         break;
-      case "6h9PiVKyurN":
+      case "6WPbide5M0n":
         Script617();
         break;
-      case "6D1Af4DSz8l":
+      case "6SKboqK2ZMb":
         Script618();
         break;
-      case "62OXmcl55K6":
+      case "6W0CzsYZGbj":
         Script619();
         break;
-      case "6pH8ZnQjW2p":
+      case "65KdamWrbsR":
         Script620();
         break;
-      case "5p1bysRFgzI":
+      case "6GI0nlfVK3l":
         Script621();
         break;
-      case "6peXTYfy8w3":
+      case "5tuUCF70B45":
         Script622();
         break;
-      case "5itgN2lNwdH":
+      case "5YmxK8dJ6wJ":
         Script623();
         break;
-      case "6dJvOEsFM1y":
+      case "6dO6jiUGb8Y":
         Script624();
         break;
-      case "5awaBxYhDpm":
+      case "6KVXjBW1eiw":
         Script625();
         break;
-      case "67hqKE2bDHX":
+      case "5pWtadOGuwl":
         Script626();
         break;
-      case "5mAl5t6cgEX":
+      case "5mWBdeWl8C8":
         Script627();
         break;
-      case "5k6D3HNekge":
+      case "5gvn1qDA62L":
         Script628();
         break;
-      case "6KVN4xSZBAk":
+      case "6K5insL6VDk":
         Script629();
         break;
-      case "68lB3FpVNQK":
+      case "5w1XwBbjRhD":
         Script630();
         break;
-      case "5rbjQZpUfYY":
+      case "5eLrtZt9TnU":
         Script631();
         break;
-      case "5ypVqk5ZJS6":
+      case "6Kf9ivV5f5t":
         Script632();
         break;
-      case "6b1pHUqDPym":
+      case "62M0OiYnmRf":
         Script633();
         break;
-      case "69AoNnx0Y9K":
+      case "5dpOgqaQMuQ":
         Script634();
         break;
-      case "6pnnY4XjEis":
+      case "6AnwmKJ62Lf":
         Script635();
         break;
-      case "6FYqc3ootDQ":
+      case "69XHHycGg69":
         Script636();
         break;
-      case "6NceIlnDSNj":
+      case "5ZvzbtiFS8v":
         Script637();
         break;
-      case "6AKBawrxRye":
+      case "6bCvIJAqXta":
         Script638();
         break;
-      case "6H9T2rz4qkE":
+      case "5tmZSIeQmz0":
         Script639();
         break;
-      case "6UehXWfCjPY":
+      case "5omEIVqCTN3":
         Script640();
         break;
-      case "6IRhxTVKzco":
+      case "5ZdqiUTjs2r":
         Script641();
         break;
-      case "64ovpxROAhk":
+      case "6VFHLmpUoWr":
         Script642();
         break;
-      case "6KLpupeE3kJ":
+      case "5dOxzX3QiHA":
         Script643();
         break;
-      case "5pgvvSaSCm2":
+      case "6LiH0IIX1xJ":
         Script644();
         break;
-      case "5d4RY8vXAIF":
+      case "6oK8ku0FUdu":
         Script645();
         break;
-      case "5c7JoQwUInf":
+      case "5jVomIGYB5Q":
         Script646();
         break;
-      case "5re4UsW4roC":
+      case "68idnIYMh71":
         Script647();
         break;
-      case "5VMiiK0ZI8Z":
+      case "6rFOOffmUNP":
         Script648();
         break;
-      case "5xjbtqbZkTO":
+      case "63zy48pkzSM":
         Script649();
         break;
-      case "6jKybIvf1Bk":
+      case "5ae74CxikQI":
         Script650();
         break;
-      case "68pwUFX44fO":
+      case "5h0sc58SJXE":
         Script651();
         break;
-      case "5p1jvirzJP6":
+      case "6NUAK4KgmBn":
         Script652();
         break;
-      case "5gbzYCzmdSd":
+      case "5qUpJvSx1eY":
         Script653();
         break;
-      case "6KO3k0m0qNV":
+      case "6jYYdrS2Ssy":
         Script654();
         break;
-      case "61SScDwDgVF":
+      case "6KrPWzQ4aAt":
         Script655();
         break;
-      case "5cdN2fc1ueg":
+      case "61L9GZyxeGW":
         Script656();
         break;
-      case "5fqwOZcPBaN":
+      case "6XPuuPk9iEc":
         Script657();
         break;
-      case "5rr9UzKPANy":
+      case "5WaeuJ7ycMh":
         Script658();
         break;
-      case "5YBHVy6qJkM":
+      case "5xe9rr9fgCK":
         Script659();
         break;
-      case "5uArbBNALuy":
+      case "6Enb52hLY5K":
         Script660();
         break;
-      case "6OOGcXbC1Ig":
+      case "6qiLikYSfOv":
         Script661();
         break;
-      case "6g1PH4uk5Fy":
+      case "62hzAAQWCfI":
         Script662();
         break;
-      case "5Zzvon2SyJu":
+      case "5ul4peAAIeM":
         Script663();
         break;
-      case "6gLHVFQoO0f":
+      case "6cKNnObLzf7":
         Script664();
         break;
-      case "5xnI9dVPtX0":
+      case "6EqxUisvhLa":
         Script665();
         break;
-      case "6josS0Lnnc4":
+      case "66VyytdKYgI":
         Script666();
         break;
-      case "6ZK6tUzdG2e":
+      case "6Ua90udeXgV":
         Script667();
         break;
-      case "6jjei19OriY":
+      case "6WnX2rPqsyG":
         Script668();
         break;
-      case "6WGMvNPdktM":
+      case "5WSg83mZX6U":
         Script669();
         break;
-      case "6VOmgwqV09w":
+      case "63YOrk40V8U":
         Script670();
         break;
-      case "61fEOKOte1Q":
+      case "64EspItg3HN":
         Script671();
         break;
-      case "6oeJ1jQ8iQ4":
+      case "5cjgdjziS5l":
         Script672();
         break;
-      case "6JNZIryMseO":
+      case "5mWN7FQbage":
         Script673();
         break;
-      case "6a42sEG5xQJ":
+      case "5voq1FPyyLw":
         Script674();
         break;
-      case "5a34i6OJQ2m":
+      case "6f6il9b3Tyn":
         Script675();
         break;
-      case "6l35GAJsrY7":
+      case "6N0Q8iLMkde":
         Script676();
         break;
-      case "6ZEIrHEA25d":
+      case "5rmRgZuxzgT":
         Script677();
         break;
-      case "62byA95stB1":
+      case "6MD9AYQ1HfT":
         Script678();
         break;
-      case "6Mdxa6Ab7xk":
+      case "6XL06zT6Ac0":
         Script679();
         break;
-      case "6DiV1XSJRsi":
+      case "6Imu8GZdDgO":
         Script680();
         break;
-      case "6NO5yuUyQAV":
+      case "5rmuJoNxI5R":
         Script681();
         break;
-      case "5ygFs1O5nVC":
+      case "68YEkGm0NEK":
         Script682();
         break;
-      case "6hSsIzviZ2E":
+      case "5gXoI7GKIJy":
         Script683();
         break;
-      case "61ZRJhJ4VqE":
+      case "6q3A3rGubNE":
         Script684();
         break;
-      case "6l0fBt3SLsi":
+      case "5z4xk2sYwgk":
         Script685();
         break;
-      case "5Vtp8Pf8Daa":
+      case "6Ttq9738ufX":
         Script686();
         break;
-      case "5jPq9NZB9US":
+      case "5xF0foRvqOK":
         Script687();
         break;
-      case "6o2pLYjSsH5":
+      case "6YwaWxxhfEc":
         Script688();
         break;
-      case "6fhAxGBFKCe":
+      case "6FI2uhCxC9n":
         Script689();
         break;
-      case "5VFnqJsK7Fa":
+      case "6RV6gX040If":
         Script690();
         break;
-      case "5x0iY15EyuR":
+      case "6I2LV3NIEZ2":
         Script691();
         break;
-      case "6bkBeafJBac":
+      case "6W0SrHHllTK":
         Script692();
         break;
-      case "6QvWsLEr33d":
+      case "6kalekFQD7n":
         Script693();
         break;
-      case "5Zj8L4p3NbJ":
+      case "6QXc3fV4YfH":
         Script694();
         break;
-      case "5fCJjfGRmug":
+      case "5hXq6J9mNHX":
         Script695();
         break;
-      case "6QkXt7Wbp3b":
+      case "5jkV3bZ0QXn":
         Script696();
         break;
-      case "6UW2fgZDVVt":
+      case "6HiE6XanLJI":
         Script697();
         break;
-      case "6dUoSJeib82":
+      case "6CpD2A5iJwj":
         Script698();
         break;
-      case "6hFXU5YFlpX":
+      case "6467K74hJTD":
         Script699();
         break;
-      case "6SkqiBriAoZ":
+      case "5riwob9kdw4":
         Script700();
         break;
-      case "5arMMV41aTU":
+      case "5YT3NAOM9zw":
         Script701();
         break;
-      case "6LfaJfJaoGG":
+      case "5yLVenSFONt":
         Script702();
         break;
-      case "6M4XCY7PQz0":
+      case "5cpSyYgV1P7":
         Script703();
         break;
-      case "5m3Rtc7Sgvc":
+      case "6eFYHL9p1nV":
         Script704();
         break;
-      case "5nvMug9cD5Z":
+      case "5nAzsGVKEE1":
         Script705();
         break;
-      case "5v8ltI19ilI":
+      case "5gl92tuhm9m":
         Script706();
         break;
-      case "6pK6DukUlGx":
+      case "6KBarVLowqd":
         Script707();
         break;
-      case "6SyU3jvZGS8":
+      case "5atvBbbEy2y":
         Script708();
         break;
-      case "6Ldhl22v6LW":
+      case "69i1aXSoqGW":
         Script709();
         break;
-      case "5jPFHtyYP5Z":
+      case "6iSBPsrMIdw":
         Script710();
         break;
-      case "6aMctTHZllM":
+      case "68kG1IXbh9e":
         Script711();
         break;
-      case "5gnsgD6Lax8":
+      case "63fPHVZCSQN":
         Script712();
         break;
-      case "5saajVAFAtm":
+      case "6QISpk66FhY":
         Script713();
         break;
-      case "5hQX2DWJUw6":
+      case "6pfGsp9j3tU":
         Script714();
         break;
-      case "6euoOfQcxKk":
+      case "5fkn2Vhpe2y":
         Script715();
         break;
-      case "5VHkVVzRfL0":
+      case "66C9kWkOcGP":
         Script716();
         break;
-      case "6DSQZumb3dZ":
+      case "6IWzo1rFRbx":
         Script717();
         break;
-      case "5vpRqiSW215":
+      case "5cUha7K4lxl":
         Script718();
         break;
-      case "5pnSZQ7ADJE":
+      case "67ntRDaw0GS":
         Script719();
         break;
-      case "5kiW5SzbHNW":
+      case "5Y4NcKFS9gT":
         Script720();
         break;
-      case "5v5ElLmr1Zk":
+      case "5lLHbVeucck":
         Script721();
         break;
-      case "6gmS2InG5Qt":
+      case "6cBTx0ctpUj":
         Script722();
         break;
-      case "69HDZRq3kPo":
+      case "5pUo3Htbz7c":
         Script723();
         break;
-      case "5oBQtXRNw32":
+      case "62LcZL10uE1":
         Script724();
         break;
-      case "6rJMN4tXRNa":
+      case "6Mmv5xOblc2":
         Script725();
         break;
-      case "5zvkhnPyO1N":
+      case "6jW7rhLDJYw":
         Script726();
         break;
-      case "6gunEd9CJ9D":
+      case "6WuKMzMnMAt":
         Script727();
         break;
-      case "5ysKSAnAMyS":
+      case "5YY3gdC57Dn":
         Script728();
         break;
-      case "5h7aW0GqfwQ":
+      case "6GjE9yXNTdS":
         Script729();
         break;
-      case "67EKGeRwQng":
+      case "5q1zWIIw9wH":
         Script730();
         break;
-      case "6Nj09Xu4WiT":
+      case "6ipr8CcNdFH":
         Script731();
         break;
-      case "5YRQh6fREAv":
+      case "5bhytEeFNU9":
         Script732();
         break;
-      case "5cliXBjeJGj":
+      case "5e49uiQ51s9":
         Script733();
         break;
-      case "5zoJuDae97o":
+      case "5di9nGZpPcm":
         Script734();
         break;
-      case "5l7Us3Zfd6O":
+      case "67b8PzULp4e":
         Script735();
         break;
-      case "6h3FOBhsC3H":
+      case "6HuzDUGyInr":
         Script736();
         break;
-      case "69UHZte9u4W":
+      case "6pAS41ldJkD":
         Script737();
         break;
-      case "68mF8Eympg1":
+      case "5lGuB1M7tPr":
         Script738();
         break;
-      case "6W3zWXGFwmE":
+      case "5d0stLkH5ue":
         Script739();
         break;
-      case "6QBGrDpKHeu":
+      case "5ysyRKdkQzX":
         Script740();
         break;
-      case "6qO72SEWhtH":
+      case "6lJvZSQSg5w":
         Script741();
         break;
-      case "6nBGZtIaydh":
+      case "6CNXCD5Hztm":
         Script742();
         break;
-      case "6fhNEPAwXi4":
+      case "6S3vY2MjeR6":
         Script743();
         break;
-      case "5oeBbuzCCiN":
+      case "6aIGwhOuvOl":
         Script744();
         break;
-      case "6X5QU5uLr6Y":
+      case "6Tsco671CcE":
         Script745();
         break;
-      case "5jwX2oU2cod":
+      case "6XDk492uwtf":
         Script746();
         break;
-      case "6oBaTLQBSwH":
+      case "5k3RFFJVKNe":
         Script747();
         break;
-      case "6SqtofY7ESE":
+      case "6ZStg73brAe":
         Script748();
         break;
-      case "6cNjJIQhu1V":
+      case "5zd0BNMRMdW":
         Script749();
         break;
-      case "5jfdHSK0rMe":
+      case "5UloN7BYc5H":
         Script750();
         break;
-      case "6Cy74R2qqui":
+      case "66lR3D5GqJo":
         Script751();
         break;
-      case "64zRlwAbtBs":
+      case "61QHfNdwOqo":
         Script752();
         break;
-      case "6ZtgPXPn97u":
+      case "6FfEPtLAnXd":
         Script753();
         break;
-      case "5qOX9DNldAF":
+      case "6AEq5QgN3gg":
         Script754();
         break;
-      case "6Wv6ICfpKE3":
+      case "5bQvwC2kEZc":
         Script755();
         break;
-      case "62Akp602JhX":
+      case "6Q3THnEZ3KO":
         Script756();
         break;
-      case "6AnbeWdOIzt":
+      case "6ULD6ABivWG":
         Script757();
         break;
-      case "6ArXQYi0T8p":
+      case "6YuCAWMov2R":
         Script758();
         break;
-      case "5uuByceihwi":
+      case "6ewpXE76iKF":
         Script759();
         break;
-      case "5evel3fYGA1":
+      case "6glfqv75pM8":
         Script760();
         break;
-      case "6diifY3rtGq":
+      case "624yfgKD4z4":
         Script761();
         break;
-      case "65DELfSdHIa":
+      case "609JCG8Yali":
         Script762();
         break;
-      case "6FlVrdHOzvo":
+      case "6mDrMo13KPL":
         Script763();
         break;
-      case "65r0hUjrajg":
+      case "5sIp9OmiEEG":
         Script764();
         break;
-      case "6LTJ0ggTBTB":
+      case "5vpzwDoasTm":
         Script765();
         break;
-      case "5xtYFJ79VOQ":
+      case "618Hom2TQGd":
         Script766();
         break;
-      case "6SKfc7jOmvL":
+      case "6aYGWmwuyFj":
         Script767();
         break;
-      case "6cJnYqjuaSA":
+      case "6acdXlVqUDl":
         Script768();
         break;
-      case "5bVYptjGUOm":
+      case "5scq2tGYIZf":
         Script769();
         break;
-      case "6opSWOZr1D7":
+      case "62jmr7ksHTu":
         Script770();
         break;
-      case "66HOLkqYc6C":
+      case "5qpOxa7E8Bo":
         Script771();
         break;
-      case "62f2NbdOWUE":
+      case "5lHUSQHevrP":
         Script772();
         break;
-      case "63x8Yye3kry":
+      case "5lx2kFTRv0P":
         Script773();
         break;
-      case "6HmHzejRvXT":
+      case "5rQyIckmubL":
         Script774();
         break;
-      case "5crhS00KeGu":
+      case "66o4doSPgNs":
         Script775();
         break;
-      case "5VguNA5cBbq":
+      case "6cABLPxPSLS":
         Script776();
         break;
-      case "6hUOin4DMK2":
+      case "6jrjQwZ12vA":
         Script777();
         break;
-      case "5qmrNKJcgqB":
+      case "6GY0bA1QOGf":
         Script778();
         break;
-      case "6k8lBFZYd9a":
+      case "5XJJ0PzAuwz":
         Script779();
         break;
-      case "5qs1VcLxURf":
+      case "693QIkgmJwn":
         Script780();
         break;
-      case "6c3T0uRuobl":
+      case "6aCeY4kbAH0":
         Script781();
         break;
-      case "6IC3xROk3UN":
+      case "6amt8A2AdC6":
         Script782();
         break;
-      case "5oogUwCURzu":
+      case "6MXgPxYAaEA":
         Script783();
         break;
-      case "5mtjgidjvSI":
+      case "64sBHr0hyuv":
         Script784();
         break;
-      case "6EL1qEPxOFC":
+      case "5gWHnavL0ZG":
         Script785();
         break;
-      case "6UYuS8o58bj":
+      case "6K6ryqxdl58":
         Script786();
         break;
-      case "5j6SrNsrhLY":
+      case "5vRG6TiiFGM":
         Script787();
         break;
-      case "5pM6F5TGIHA":
+      case "5m085WcUprT":
         Script788();
         break;
-      case "5g19yfGws2h":
+      case "6mZJUnwBgwa":
         Script789();
         break;
-      case "6RuTCJVMfMd":
+      case "65AtF0NrmCK":
         Script790();
         break;
-      case "6GR3Boq15BL":
+      case "5d3gEgOSa2H":
         Script791();
         break;
-      case "6bi94xsQkhZ":
+      case "5g7xW9NvH2U":
         Script792();
         break;
-      case "6ImPpDlNkhs":
+      case "6C0Rf2lE9ns":
         Script793();
         break;
-      case "5ktIebgyeHK":
+      case "6nYajWqmjMw":
         Script794();
         break;
-      case "5nGJMf4uFNv":
+      case "5XZ812H6dQy":
         Script795();
         break;
-      case "61OgZXsDGn7":
+      case "5YFyhvF5adP":
         Script796();
         break;
-      case "60GpwDR75hM":
+      case "6e5K6gkxmfz":
         Script797();
         break;
-      case "5tIDYg0uNGa":
+      case "5XVDUBgwlm2":
         Script798();
         break;
-      case "65oOdyMFWRe":
+      case "5g2t3LCWIWN":
         Script799();
         break;
-      case "6aHjeXXKGus":
+      case "6231thVNWls":
         Script800();
         break;
-      case "6RpurzeAlnL":
+      case "5xacVAIMCOe":
         Script801();
         break;
-      case "6F1fUlinsRs":
+      case "6gCjqUctPZY":
         Script802();
         break;
-      case "5b7ACcUb6dV":
+      case "5vkzfweKqsj":
         Script803();
         break;
-      case "6Kfbv9aYKFc":
+      case "5kgwkm0Ww0I":
         Script804();
         break;
-      case "5guAVBer9Z8":
+      case "63201uLVRzj":
         Script805();
         break;
-      case "60j1LtlQfO7":
+      case "5uy4FnkTWyK":
         Script806();
         break;
-      case "68qR0Tgj626":
+      case "6QFo8lPLMm2":
         Script807();
         break;
-      case "5qkG7B7woOc":
+      case "6Yd1CDOA5Oq":
         Script808();
         break;
-      case "613JFvnsWUz":
+      case "5xC2XcGipZB":
         Script809();
         break;
-      case "5jzRYdTe1p0":
+      case "5joyO7q1oLI":
         Script810();
         break;
-      case "5c79Io0wKGw":
+      case "6BmuOXeDuAF":
         Script811();
         break;
-      case "5sD9vICckay":
+      case "5zXHRSRFzhn":
         Script812();
         break;
-      case "69560fOQbnj":
+      case "5WOZHjxY5n3":
         Script813();
         break;
-      case "6GwK82B7AI0":
+      case "6pvrf5p8hCB":
         Script814();
         break;
-      case "61OEEZALUry":
+      case "6QxLF5DfjGB":
         Script815();
         break;
-      case "5bp9XO3zFTA":
+      case "6E6J5oDRLGO":
         Script816();
         break;
-      case "6NO0k1w5sF3":
+      case "5vENlAaPl4k":
         Script817();
         break;
-      case "6C4HzAXgHC2":
+      case "5og6SF8h8Gx":
         Script818();
         break;
-      case "5eukuxX9kMI":
+      case "5pcglkjEIDA":
         Script819();
         break;
-      case "5mid8MQZrRy":
+      case "6dXDIxCtCjS":
         Script820();
         break;
-      case "5rsXDmiLpUZ":
+      case "6TrGymGUuY1":
         Script821();
         break;
-      case "6gNdenNk3Eu":
+      case "6UfVPPrMo0q":
         Script822();
         break;
-      case "6fT243brC1c":
+      case "5lZVpqYSBhk":
         Script823();
         break;
-      case "5VX6t2pOHGY":
+      case "6rUmgj7mFgI":
         Script824();
         break;
-      case "6qdv5JfMP6j":
+      case "69qh80Sudmj":
         Script825();
         break;
-      case "6m7v26N20hA":
+      case "6Hdylt10OX2":
         Script826();
         break;
-      case "68sY5fxS30e":
+      case "6g8AMYKp6Ds":
         Script827();
         break;
-      case "6EHqEQZR8Rf":
+      case "5xvLR19MALf":
         Script828();
         break;
-      case "68Ye7x1Z1U6":
+      case "5ZzABDlbxZh":
         Script829();
         break;
-      case "68lhQ7iaHyX":
+      case "5e1zUwUutwd":
         Script830();
         break;
-      case "6A26rRf9O5G":
+      case "5rgXizZQRoG":
         Script831();
         break;
-      case "6bNkXPFeXFA":
+      case "5Y5lCXww5eD":
         Script832();
         break;
-      case "6fULiBRsgOT":
+      case "665m6EnD97H":
         Script833();
         break;
-      case "6ZQ4c1XCkUB":
+      case "6RZJCv05zmq":
         Script834();
         break;
-      case "5dFCHfR8qIK":
+      case "5jtV1aH1XYG":
         Script835();
         break;
-      case "6LPOkrjMkLy":
+      case "63SCibfj1zT":
         Script836();
         break;
-      case "6qzIJvmEqse":
+      case "5cPPgNPYYcP":
         Script837();
         break;
-      case "6JG2nGP690G":
+      case "6hnO7MjMkrj":
         Script838();
         break;
-      case "6VfO26PtOUt":
+      case "63RARt2Gvg5":
         Script839();
         break;
-      case "5c28GKKBeU2":
+      case "5YHgfClvNJF":
         Script840();
         break;
-      case "5gihz6N6Tv5":
+      case "6eQ7bIvsojz":
         Script841();
         break;
-      case "6IHqUGzQCC6":
+      case "5bF0kqYDHEy":
         Script842();
         break;
-      case "6h3ETN8EU4J":
+      case "5sSTk7xFCoz":
         Script843();
         break;
-      case "6loxEjrdRL2":
+      case "6Fit0P27dMo":
         Script844();
         break;
-      case "5kUCodSCCi2":
+      case "6Bm7kIkMsUi":
         Script845();
         break;
-      case "6kWMWjRFpYd":
+      case "6OKCZTL9AOw":
         Script846();
         break;
-      case "62taVLCirv1":
+      case "6IxFhVCa4i1":
         Script847();
         break;
-      case "66huk9YHSdt":
+      case "6nAyDuBFBqr":
         Script848();
         break;
-      case "68nZSnmmFGo":
+      case "6V6P43BnmfX":
         Script849();
         break;
-      case "5f90L1BfSR4":
+      case "6gK3eJFHw4p":
         Script850();
         break;
-      case "6pPrJpjHak8":
+      case "5oKLSrrgG4Y":
         Script851();
         break;
-      case "5ynDsXYIbni":
+      case "6YApip8b1MN":
         Script852();
         break;
-      case "6dI0SD7krq9":
+      case "6PHNZHZEUdo":
         Script853();
         break;
-      case "6Zgi6XIdXSy":
+      case "5ciKyZjD5AQ":
         Script854();
         break;
-      case "6F8uAsjpg18":
+      case "60jW7Qldp4X":
         Script855();
         break;
-      case "5qPpDUFaFRh":
+      case "5ogcIeaFxKF":
         Script856();
         break;
-      case "5d7xi6DSPoM":
+      case "6E0hTEbm7jy":
         Script857();
         break;
-      case "6gO0MkV0p8a":
+      case "6M5oFSmY3Ry":
         Script858();
         break;
-      case "5tHdCIT521M":
+      case "6qzinHWinap":
         Script859();
         break;
-      case "6hmrPlNoXJm":
+      case "6Sc0uXM1HOM":
         Script860();
         break;
-      case "6AklE6RZQU8":
+      case "5Zyun5TIc95":
         Script861();
         break;
-      case "6dET0uUaGUA":
+      case "6fsRL46vMnO":
         Script862();
         break;
-      case "6hIICZ7Hpzc":
+      case "5ay3aZQAaTB":
         Script863();
         break;
-      case "60RgCfIPBNH":
+      case "6q3thk7jMFc":
         Script864();
         break;
-      case "5kuEtsH8ykO":
+      case "6F3TYivmmHO":
         Script865();
         break;
-      case "5t8HdZWscCT":
+      case "6HiAF0TMyLn":
         Script866();
         break;
-      case "5XxxJtd0iO5":
+      case "5oeCCnMlQjK":
         Script867();
         break;
-      case "609mw4gYfqO":
+      case "6hQ5bzvzeFg":
         Script868();
         break;
-      case "5jUpqNE68mz":
+      case "6aolPSBGDCD":
         Script869();
         break;
-      case "66jnHdzUMKD":
+      case "6QXpno1hrFm":
         Script870();
+        break;
+      case "5xer8U1Tp0l":
+        Script871();
+        break;
+      case "5who8Of1iSe":
+        Script872();
+        break;
+      case "62ZPZ7foTOX":
+        Script873();
+        break;
+      case "6brGXqzxygv":
+        Script874();
+        break;
+      case "6jJk52Se09Y":
+        Script875();
+        break;
+      case "6Pn3oqD77cu":
+        Script876();
+        break;
+      case "6SCAwfpc21E":
+        Script877();
+        break;
+      case "5aiZNdymViz":
+        Script878();
+        break;
+      case "6FinEL5jp5A":
+        Script879();
+        break;
+      case "66szxhR9aya":
+        Script880();
+        break;
+      case "5y1d1kEo7gD":
+        Script881();
+        break;
+      case "5h4WcMzMsFG":
+        Script882();
+        break;
+      case "5bNPu1ZqSlg":
+        Script883();
+        break;
+      case "6fxKB34gkWU":
+        Script884();
+        break;
+      case "6TXH4eG7k3B":
+        Script885();
+        break;
+      case "69NmRvRvs4s":
+        Script886();
+        break;
+      case "6iAgsaLtKe9":
+        Script887();
+        break;
+      case "5bKFY5LdnMN":
+        Script888();
+        break;
+      case "5xqONIq3ulP":
+        Script889();
+        break;
+      case "6QHiNYQQstU":
+        Script890();
+        break;
+      case "69lFHBDap2r":
+        Script891();
+        break;
+      case "5u1E08kDI9j":
+        Script892();
+        break;
+      case "5yDJPW8tZT5":
+        Script893();
+        break;
+      case "6061wRNzBlI":
+        Script894();
+        break;
+      case "5YDRGbB9ecj":
+        Script895();
+        break;
+      case "5ueTK1XGrdX":
+        Script896();
+        break;
+      case "5Vt3fAdt8yC":
+        Script897();
+        break;
+      case "6dlzIJVQWiP":
+        Script898();
+        break;
+      case "6FvyxoqFG8H":
+        Script899();
+        break;
+      case "6p9WCnZPrSn":
+        Script900();
+        break;
+      case "6KEAgOAcImU":
+        Script901();
+        break;
+      case "6MbqKyK4Lt5":
+        Script902();
+        break;
+      case "6TdXkF6YTfg":
+        Script903();
+        break;
+      case "5cDR6HDWHQL":
+        Script904();
+        break;
+      case "622rJexeadt":
+        Script905();
+        break;
+      case "6jJmVb9ol6A":
+        Script906();
+        break;
+      case "6BUsP3niXXY":
+        Script907();
+        break;
+      case "6CHKCjqhuGP":
+        Script908();
+        break;
+      case "66ZK65UK0i6":
+        Script909();
+        break;
+      case "67LixzNtU73":
+        Script910();
+        break;
+      case "5vMSH4XjWcQ":
+        Script911();
+        break;
+      case "6Qju65m4tTE":
+        Script912();
+        break;
+      case "6NUxGCi8C3v":
+        Script913();
+        break;
+      case "5eU86McSLPF":
+        Script914();
+        break;
+      case "6cC5BmhWv4Q":
+        Script915();
+        break;
+      case "6m466iMZCWO":
+        Script916();
+        break;
+      case "5li1cenyB1V":
+        Script917();
+        break;
+      case "6bnwhNMGgcV":
+        Script918();
+        break;
+      case "60Obnw8qMZ7":
+        Script919();
+        break;
+      case "5Vh9WKRAS0O":
+        Script920();
+        break;
+      case "5bEjoAU02Xa":
+        Script921();
+        break;
+      case "5i0Lln2Gbf3":
+        Script922();
+        break;
+      case "5zmLq303Fgj":
+        Script923();
+        break;
+      case "6nbarT2jY8H":
+        Script924();
+        break;
+      case "6OASB6v5pt0":
+        Script925();
+        break;
+      case "68jrCznrAv8":
+        Script926();
+        break;
+      case "5pEcB72U4tZ":
+        Script927();
+        break;
+      case "5XmNtz7USyP":
+        Script928();
+        break;
+      case "5pxtpOsk3lw":
+        Script929();
+        break;
+      case "6XkVKe1K6cI":
+        Script930();
+        break;
+      case "6LmHpwkhI6R":
+        Script931();
+        break;
+      case "6PBFpdkWzbR":
+        Script932();
+        break;
+      case "6Mx5goq1pdi":
+        Script933();
+        break;
+      case "6R57GeX9Inw":
+        Script934();
+        break;
+      case "6l4rmDIqPVY":
+        Script935();
+        break;
+      case "6rAfQfR2xgX":
+        Script936();
+        break;
+      case "6DyMpXLezGa":
+        Script937();
+        break;
+      case "69dDVS47ntS":
+        Script938();
+        break;
+      case "6PcuJhFFHgE":
+        Script939();
+        break;
+      case "6djyt9Dre3F":
+        Script940();
+        break;
+      case "5jUZrtZGzY5":
+        Script941();
+        break;
+      case "6RDwuLK5L4N":
+        Script942();
+        break;
+      case "6BzmGeKBYng":
+        Script943();
+        break;
+      case "6isSIyB2Wj5":
+        Script944();
+        break;
+      case "6HzFQZUGiS6":
+        Script945();
+        break;
+      case "5c5Ad94bsbh":
+        Script946();
+        break;
+      case "6Lw7WAconTl":
+        Script947();
+        break;
+      case "5smXrmjiP06":
+        Script948();
+        break;
+      case "5VfO8mjXQVH":
+        Script949();
+        break;
+      case "6cPQqG5ZaVp":
+        Script950();
+        break;
+      case "6g2dsVOfG6y":
+        Script951();
+        break;
+      case "5jSpuLXaXjt":
+        Script952();
+        break;
+      case "6YSFKuboRE7":
+        Script953();
+        break;
+      case "6MDajWRQ2H2":
+        Script954();
+        break;
+      case "6O5UWK3naL4":
+        Script955();
+        break;
+      case "6ew1MX2MNWA":
+        Script956();
+        break;
+      case "5xXGrz9b1m9":
+        Script957();
+        break;
+      case "5VxU2oKoxjg":
+        Script958();
+        break;
+      case "6QkvGmghApO":
+        Script959();
+        break;
+      case "6Pt9wXPl7AI":
+        Script960();
+        break;
+      case "6MdsO7yLnsr":
+        Script961();
+        break;
+      case "67zWlETeeTz":
+        Script962();
+        break;
+      case "6jv9jaglr75":
+        Script963();
+        break;
+      case "6D80P3uncxL":
+        Script964();
+        break;
+      case "5kWWqPkynjo":
+        Script965();
+        break;
+      case "5t8qjbTjUjD":
+        Script966();
+        break;
+      case "6LeFelUad1D":
+        Script967();
+        break;
+      case "6YiljPTOffR":
+        Script968();
+        break;
+      case "5q54nex2zON":
+        Script969();
+        break;
+      case "5sjHIzjazC4":
+        Script970();
+        break;
+      case "6BADrv3kwEV":
+        Script971();
+        break;
+      case "5wft2NOIBc8":
+        Script972();
+        break;
+      case "6pdLIf0Ndwi":
+        Script973();
+        break;
+      case "6QwoOdq1h9M":
+        Script974();
+        break;
+      case "5tdrFgZXG9T":
+        Script975();
+        break;
+      case "5x0fWYUynWQ":
+        Script976();
+        break;
+      case "6XwLIDEj6vS":
+        Script977();
+        break;
+      case "5VfL1xSY2Tg":
+        Script978();
+        break;
+      case "6h414urZZlY":
+        Script979();
+        break;
+      case "6nn3BUd05Oh":
+        Script980();
+        break;
+      case "6ccBqCYgjkq":
+        Script981();
+        break;
+      case "63XrfQ082UM":
+        Script982();
+        break;
+      case "5YlRwnNA4jG":
+        Script983();
+        break;
+      case "6TkXzOTR3I4":
+        Script984();
+        break;
+      case "6AjCLKyXdFn":
+        Script985();
+        break;
+      case "5tEAFlYdMxW":
+        Script986();
+        break;
+      case "6jAOPwqFdav":
+        Script987();
+        break;
+      case "5udgEJsKh0K":
+        Script988();
+        break;
+      case "5l8V2KNBtgr":
+        Script989();
+        break;
+      case "6EcTvdaTqcS":
+        Script990();
+        break;
+      case "6lNbGZb7b6p":
+        Script991();
+        break;
+      case "62G0bGmlxXD":
+        Script992();
+        break;
+      case "6SG02SWwYZx":
+        Script993();
+        break;
+      case "6RKPab81FmJ":
+        Script994();
+        break;
+      case "67c0CM6hSuD":
+        Script995();
+        break;
+      case "5k6hslznn8o":
+        Script996();
+        break;
+      case "687FHFIUFIy":
+        Script997();
+        break;
+      case "6LjfGFlbmXV":
+        Script998();
+        break;
+      case "6O11SatrgkX":
+        Script999();
+        break;
+      case "5pYYbYcda8k":
+        Script1000();
+        break;
+      case "6kWB3BHsFik":
+        Script1001();
+        break;
+      case "6nOwWEpLKYm":
+        Script1002();
+        break;
+      case "5oSRyc3IVVx":
+        Script1003();
+        break;
+      case "6YE1CBzMWfi":
+        Script1004();
+        break;
+      case "5o8eHPeylVe":
+        Script1005();
+        break;
+      case "5jbhWsLgOwy":
+        Script1006();
+        break;
+      case "5rI096EYdcU":
+        Script1007();
+        break;
+      case "6cyK4nnIIEn":
+        Script1008();
+        break;
+      case "6AYiQd8gnWy":
+        Script1009();
+        break;
+      case "6mI7kYg0UKt":
+        Script1010();
+        break;
+      case "64nT0NIXgOO":
+        Script1011();
+        break;
+      case "5hZjE6bDjPa":
+        Script1012();
+        break;
+      case "6XBqz0cWU40":
+        Script1013();
+        break;
+      case "5jRDrIaiKXM":
+        Script1014();
+        break;
+      case "67GkSsODlAH":
+        Script1015();
+        break;
+      case "6SmvYQFvPRG":
+        Script1016();
+        break;
+      case "5lmBW8JNW5g":
+        Script1017();
+        break;
+      case "6BeuDVqrPdB":
+        Script1018();
+        break;
+      case "5zB6cfZpJTU":
+        Script1019();
+        break;
+      case "6VYCh4ChOuW":
+        Script1020();
+        break;
+      case "6F5MfGWIwjd":
+        Script1021();
+        break;
+      case "5lokfDKyALW":
+        Script1022();
+        break;
+      case "6CYIR9xt5rd":
+        Script1023();
+        break;
+      case "68MbBrCEyZf":
+        Script1024();
+        break;
+      case "5s6VXp0Iya5":
+        Script1025();
+        break;
+      case "5y3TuvLnH8N":
+        Script1026();
+        break;
+      case "6OEycG2pfLW":
+        Script1027();
+        break;
+      case "5jimysMKblW":
+        Script1028();
+        break;
+      case "5n828mh8Uj8":
+        Script1029();
+        break;
+      case "6cE7FdMAlRa":
+        Script1030();
+        break;
+      case "6En0kUgHPIi":
+        Script1031();
+        break;
+      case "5s6Zmz3GXRX":
+        Script1032();
+        break;
+      case "677oy9AatRW":
+        Script1033();
+        break;
+      case "6JHYfySbJOO":
+        Script1034();
+        break;
+      case "6ZOVEZriErI":
+        Script1035();
+        break;
+      case "6NFUyS4V6vA":
+        Script1036();
+        break;
+      case "6LTyN4zEMBi":
+        Script1037();
+        break;
+      case "6YGEvM7RPyR":
+        Script1038();
+        break;
+      case "6DweMmm4bBe":
+        Script1039();
+        break;
+      case "6opPS7wzqSq":
+        Script1040();
+        break;
+      case "6kSS3t4CUxz":
+        Script1041();
+        break;
+      case "6dJ8t1b3qME":
+        Script1042();
+        break;
+      case "6lQrFA8Krhf":
+        Script1043();
+        break;
+      case "5lDE6v33M58":
+        Script1044();
+        break;
+      case "5a10N24Sc1B":
+        Script1045();
+        break;
+      case "6bamGd11gx4":
+        Script1046();
+        break;
+      case "696YMPwSWxQ":
+        Script1047();
+        break;
+      case "6JE8fOXHXlI":
+        Script1048();
+        break;
+      case "5dFOii3SCJd":
+        Script1049();
+        break;
+      case "5xhVGwvVGUt":
+        Script1050();
+        break;
+      case "684jNxSIWaZ":
+        Script1051();
+        break;
+      case "5Y1h4Zmb302":
+        Script1052();
+        break;
+      case "5chXUZBzfnO":
+        Script1053();
+        break;
+      case "5dHk1MgqvKX":
+        Script1054();
+        break;
+      case "5c64dO54vb6":
+        Script1055();
+        break;
+      case "6nzHc0A4x6T":
+        Script1056();
+        break;
+      case "6fopvI6GmJC":
+        Script1057();
+        break;
+      case "6cxZ9u3nian":
+        Script1058();
+        break;
+      case "6GbFIYj5nRX":
+        Script1059();
+        break;
+      case "6dvUQDjmZzt":
+        Script1060();
+        break;
+      case "6bfwevrio9A":
+        Script1061();
+        break;
+      case "66oSfbuyTqj":
+        Script1062();
+        break;
+      case "5oVEPHN2V9H":
+        Script1063();
+        break;
+      case "6TsXAjj0iyc":
+        Script1064();
+        break;
+      case "6OrYfOUDgv2":
+        Script1065();
+        break;
+      case "6k9KuhrtiHp":
+        Script1066();
+        break;
+      case "5YCYHx5blvL":
+        Script1067();
+        break;
+      case "6afhxKTOGEt":
+        Script1068();
+        break;
+      case "5pVbT0pQhTE":
+        Script1069();
+        break;
+      case "6o9gxQeyTjK":
+        Script1070();
+        break;
+      case "60AD84ZLlfJ":
+        Script1071();
+        break;
+      case "6TvxHimOBIF":
+        Script1072();
+        break;
+      case "5sGDIYJ5dI5":
+        Script1073();
+        break;
+      case "69uGpnbWsJC":
+        Script1074();
+        break;
+      case "5iPou1TnnJ1":
+        Script1075();
+        break;
+      case "6CQSHD5xifL":
+        Script1076();
+        break;
+      case "6jWqp531RxN":
+        Script1077();
+        break;
+      case "5tbWyyD4K5W":
+        Script1078();
+        break;
+      case "5wisKXnKcDW":
+        Script1079();
+        break;
+      case "6jA7U0lqVvH":
+        Script1080();
+        break;
+      case "6Nd3JHCuY60":
+        Script1081();
+        break;
+      case "6fswgTZiuf2":
+        Script1082();
+        break;
+      case "6HbuaRB1tY5":
+        Script1083();
+        break;
+      case "6RWEYU4NlHR":
+        Script1084();
+        break;
+      case "5XTJkAO44gN":
+        Script1085();
+        break;
+      case "6cykYCZRYRd":
+        Script1086();
+        break;
+      case "5yI3CtyEOB3":
+        Script1087();
+        break;
+      case "5VQy4lUQsXc":
+        Script1088();
+        break;
+      case "5WmRQIkYXUU":
+        Script1089();
+        break;
+      case "5rtILgDrGDp":
+        Script1090();
+        break;
+      case "6quTIrC8rgM":
+        Script1091();
+        break;
+      case "5ymBm18W7ok":
+        Script1092();
+        break;
+      case "6XzL9E6DIyo":
+        Script1093();
+        break;
+      case "5oNsaXWGAth":
+        Script1094();
+        break;
+      case "5y4WMb8ashF":
+        Script1095();
+        break;
+      case "62JdCFXZ8o0":
+        Script1096();
+        break;
+      case "6ha70aFCIuJ":
+        Script1097();
+        break;
+      case "6AMHkSJhVYg":
+        Script1098();
+        break;
+      case "5ySKRKLB6e1":
+        Script1099();
+        break;
+      case "5foQJQsQvNm":
+        Script1100();
+        break;
+      case "6BHyyGxhkOD":
+        Script1101();
+        break;
+      case "5z9XnkpKZeB":
+        Script1102();
+        break;
+      case "5XzGpjFdAXV":
+        Script1103();
+        break;
+      case "64ikYW5yn5z":
+        Script1104();
+        break;
+      case "5X1ZBy8hUHw":
+        Script1105();
+        break;
+      case "5gLRpvcGoRq":
+        Script1106();
+        break;
+      case "61JiXip2jAZ":
+        Script1107();
+        break;
+      case "6KyzpZrfhra":
+        Script1108();
+        break;
+      case "6nwr16zGMJW":
+        Script1109();
+        break;
+      case "5qKBiZORfT9":
+        Script1110();
+        break;
+      case "69Uy1GA5u2f":
+        Script1111();
+        break;
+      case "5wsbVU5xE8P":
+        Script1112();
+        break;
+      case "6BQzGj0Qi0s":
+        Script1113();
+        break;
+      case "5kzU5vdgUpR":
+        Script1114();
+        break;
+      case "60YET9i1tNR":
+        Script1115();
+        break;
+      case "6H6JoK0ffr6":
+        Script1116();
+        break;
+      case "6oGGt8ItABm":
+        Script1117();
+        break;
+      case "6ZmDzOScyQI":
+        Script1118();
+        break;
+      case "6P6CipTxpdi":
+        Script1119();
+        break;
+      case "5dWg16JYN2T":
+        Script1120();
+        break;
+      case "5kvHRSo6PhK":
+        Script1121();
+        break;
+      case "5WCwy5Fagg2":
+        Script1122();
+        break;
+      case "6cEmNI6Bz3b":
+        Script1123();
+        break;
+      case "5zt4HI3yjDA":
+        Script1124();
+        break;
+      case "6M6FdF2BkT7":
+        Script1125();
+        break;
+      case "6YR2pRYieZ8":
+        Script1126();
+        break;
+      case "6o1B1IYeGdK":
+        Script1127();
+        break;
+      case "65w65vti2iN":
+        Script1128();
+        break;
+      case "6SyGav36ifs":
+        Script1129();
+        break;
+      case "5oIYwSl9sey":
+        Script1130();
+        break;
+      case "6Zt2yjdmEQ6":
+        Script1131();
+        break;
+      case "6BLuBsrz1NN":
+        Script1132();
+        break;
+      case "6Y0VNQUf9wz":
+        Script1133();
+        break;
+      case "6AxLSNFWeeS":
+        Script1134();
+        break;
+      case "6A1YYkOgmr5":
+        Script1135();
+        break;
+      case "5rlGqN4HXM4":
+        Script1136();
+        break;
+      case "6VlMPFdzJN6":
+        Script1137();
+        break;
+      case "5eYjxPrtMen":
+        Script1138();
+        break;
+      case "5UhnK1t2Vq4":
+        Script1139();
+        break;
+      case "68DVzYqeOgl":
+        Script1140();
+        break;
+      case "63eEHg8u6sR":
+        Script1141();
+        break;
+      case "6mW1YGN3cmo":
+        Script1142();
+        break;
+      case "6cjNWWlCoYF":
+        Script1143();
+        break;
+      case "5oTs3uVYr1l":
+        Script1144();
+        break;
+      case "6Np0AzJKL8S":
+        Script1145();
+        break;
+      case "6flDtYZg9I9":
+        Script1146();
+        break;
+      case "6a1IFi8DcrL":
+        Script1147();
+        break;
+      case "6obcuUIYk8P":
+        Script1148();
+        break;
+      case "5iyKc0YOyO5":
+        Script1149();
+        break;
+      case "6cRnR8NWcb9":
+        Script1150();
+        break;
+      case "6RIkHVmzMUa":
+        Script1151();
+        break;
+      case "5rFKFfRwmVm":
+        Script1152();
+        break;
+      case "6R8qc4cWAM5":
+        Script1153();
+        break;
+      case "5z02zkUW3fQ":
+        Script1154();
+        break;
+      case "6DyrQE25odJ":
+        Script1155();
+        break;
+      case "6l8fiLCOL81":
+        Script1156();
+        break;
+      case "5tVZxVYLRoz":
+        Script1157();
+        break;
+      case "5iG0QcA38V8":
+        Script1158();
+        break;
+      case "5iMfi5Jgvdr":
+        Script1159();
+        break;
+      case "6qy1d49Q0fT":
+        Script1160();
+        break;
+      case "6BVWD5Yhgix":
+        Script1161();
+        break;
+      case "6pKxKkzVQnR":
+        Script1162();
+        break;
+      case "5dv8BBZ5t62":
+        Script1163();
+        break;
+      case "5wkVKXd9FMI":
+        Script1164();
+        break;
+      case "6p2SvTqrRT4":
+        Script1165();
+        break;
+      case "6oyL1XGhoyU":
+        Script1166();
+        break;
+      case "5qDl8eNyWjJ":
+        Script1167();
+        break;
+      case "5UxuEQohijL":
+        Script1168();
+        break;
+      case "6TLrcrG7O0z":
+        Script1169();
+        break;
+      case "6o0eVDqGxZX":
+        Script1170();
         break;
   }
 }
@@ -33031,6 +33931,10506 @@ console.log('work');
 }
 
 function Script870()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script871()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script872()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script873()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script874()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script875()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script876()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script877()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script878()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script879()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script880()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script881()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script882()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script883()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script884()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script885()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script886()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script887()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script888()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script889()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script890()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script891()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script892()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script893()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script894()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script895()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script896()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script897()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script898()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script899()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script900()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script901()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script902()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script903()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script904()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script905()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script906()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script907()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script908()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script909()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script910()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script911()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script912()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script913()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script914()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script915()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script916()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script917()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script918()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script919()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script920()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script921()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script922()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script923()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script924()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script925()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script926()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script927()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script928()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script929()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script930()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script931()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script932()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script933()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script934()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script935()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script936()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script937()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script938()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script939()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script940()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script941()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script942()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script943()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script944()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script945()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script946()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script947()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script948()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script949()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script950()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script951()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script952()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script953()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script954()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script955()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script956()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script957()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script958()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script959()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script960()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script961()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script962()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script963()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script964()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script965()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script966()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script967()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script968()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script969()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script970()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script971()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script972()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script973()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script974()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script975()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script976()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script977()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script978()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script979()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script980()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script981()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script982()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script983()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script984()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script985()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script986()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script987()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script988()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script989()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script990()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script991()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script992()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script993()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script994()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script995()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script996()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script997()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script998()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script999()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1000()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1001()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1002()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1003()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1004()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1005()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1006()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1007()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1008()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1009()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1010()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1011()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1012()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1013()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1014()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1015()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1016()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1017()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1018()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1019()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1020()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1021()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1022()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1023()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1024()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1025()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1026()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1027()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1028()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1029()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1030()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1031()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1032()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1033()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1034()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1035()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1036()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1037()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1038()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1039()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1040()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1041()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1042()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1043()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1044()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1045()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1046()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1047()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1048()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1049()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1050()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1051()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1052()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1053()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1054()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1055()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1056()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1057()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1058()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1059()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1060()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1061()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1062()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1063()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1064()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1065()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1066()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1067()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1068()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1069()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1070()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1071()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1072()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1073()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1074()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1075()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1076()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1077()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1078()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1079()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1080()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1081()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1082()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1083()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1084()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1085()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1086()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1087()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1088()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1089()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1090()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1091()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1092()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1093()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1094()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1095()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1096()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1097()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1098()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1099()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1100()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1101()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1102()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1103()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1104()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1105()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1106()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1107()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1108()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1109()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1110()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1111()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1112()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1113()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1114()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1115()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1116()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1117()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1118()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1119()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1120()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1121()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1122()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1123()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1124()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1125()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1126()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1127()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1128()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1129()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1130()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1131()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1132()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1133()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1134()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1135()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1136()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1137()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1138()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1139()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1140()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1141()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1142()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1143()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1144()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1145()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1146()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1147()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1148()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1149()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1150()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1151()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1152()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1153()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1154()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1155()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1156()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1157()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1158()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1159()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1160()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1161()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1162()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1163()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1164()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1165()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1166()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1167()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1168()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1169()
+{
+  //Anything with "//" in front of it is a comment and will not effect the code below.
+//You may want to expand this window to see everything better!
+
+//Get the flash player so JavaScript and Storyline can chat with each other.
+var player = GetPlayer();
+
+//Storyline and JavaScript variables are different. Here we set the JavaScript variables to be the same as the Storyline variables.
+//You can change the GetVar("YOUR_VARIABLE"); to your Storyline variable if you need to.
+var CurrentPos = player.GetVar("CurrentPos");
+var EndPos = player.GetVar("EndPos");
+
+//This is the time it takes to move from one place to another.
+var TimeLength = .8
+
+//This creates an object with associated variables associated. No need to change this.
+var obj = {ThePos:CurrentPos};
+
+// Uncomment this for a linear motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Power0.easeNone, onUpdate:drawCanvas});
+// Uncomment this for an ease out motion
+TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeOut, onUpdate:drawCanvas});
+// Uncomment this for an ease in/out motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Expo.easeInOut, onUpdate:drawCanvas});
+// Uncomment this for a bounce motion
+//TweenLite.to(obj, TimeLength, {ThePos:EndPos, ease:Bounce.easeOut, onUpdate:drawCanvas});
+
+//The onUpdate call above causes this to run every time the TweenLite function recalculates.
+function drawCanvas() {
+    player.SetVar("CurrentPos",Math.ceil(obj.ThePos));
+console.log('work');
+}
+}
+
+function Script1170()
 {
   //Anything with "//" in front of it is a comment and will not effect the code below.
 //You may want to expand this window to see everything better!
